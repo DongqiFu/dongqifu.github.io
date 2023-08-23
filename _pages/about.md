@@ -9,8 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    
-    
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -21,3 +19,7 @@ social: true  # includes social icons at the bottom of the page
 I am a final-year Ph.D. student in the [Department of Computer Science](https://cs.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). It is my great honor to be a student of Prof. [Jingrui He](https://www.hejingrui.org/) at [iSAIL Lab](https://isail-laboratory.github.io/).
 
 My research interests focus on investigating **Natural Dynamics** and **Artificial Dynamics** in Graph Mining, Graph Representations, and Graph Neural Networks.
+
+Contact:
+- Room 5165, 614 E Daniel St, Champaign, IL 61820
+- dongqif2 [AT] illinois [DOT] edu
