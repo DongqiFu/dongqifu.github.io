@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>dongqif2[AT]illinois[DOT]edu</p>
-    <p><a href="https://github.com/DongqiFu">GitHub</a>|<a href="https://scholar.google.com/citations?user=WByXZAcAAAAJ&hl=en">GoogleScholar</a>|<a href="https://twitter.com/DongqiFu_UIUC">Twitter</a></p>
+    <p>dongqif2 [AT] illinois [DOT] edu</p>
+    <p><a href="https://github.com/DongqiFu">GitHub</a> | <a href="https://scholar.google.com/citations?user=WByXZAcAAAAJ&hl=en">GoogleScholar</a> | <a href="https://twitter.com/DongqiFu_UIUC">Twitter</a></p>
     
 
 news: true  # includes a list of news items
