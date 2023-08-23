@@ -3,20 +3,15 @@ layout: about
 title: About
 permalink: /
 subtitle: dongqif2 [AT] illinois [DOT] edu
+subtitle: Room 5165, 614 E Daniel St, Champaign, IL 61820
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <center></center>
-    <p>Room 5165, 614 E Daniel St</p>
-    <p>Champaign, IL 61820</p>
-    <center>
-          <a href="https://github.com/DongqiFu">GitHub</a>|
-          <a href="https://scholar.google.com/citations?user=WByXZAcAAAAJ&hl=en">Google Scholar</a>|
-          <a href="https://twitter.com/DongqiFu_UIUC">Twitter</a>
-      </center>
+    <p><a href="https://github.com/DongqiFu">GitHub</a>|<a href="https://scholar.google.com/citations?user=WByXZAcAAAAJ&hl=en">GoogleScholar</a>|<a href="https://twitter.com/DongqiFu_UIUC">Twitter</a></p>
+    
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
