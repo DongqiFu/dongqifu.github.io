@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-  <center>
-          <p>Room 5165, 614 E Daniel St</p>
-          <p>Champaign, IL 61820</p>
-  </center>
+      <center>
+              <p>Room 5165, 614 E Daniel St</p>
+              <p>Champaign, IL 61820</p>
+      </center>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
