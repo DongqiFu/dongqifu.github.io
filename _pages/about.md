@@ -25,7 +25,7 @@ I am a final-year Ph.D. student in the [Department of Computer Science](https://
 
 I am interested in adapting data mining and machine learning algorithms to graph data (i.e., non-IID, relational, non-grid, non-Euclidean data). Moreover, the real-world graph data can be (1) **related to the temporal information** (i.e., time-evolving topological structures, time-evolving node/graph features/labels, etc.) and (2) **imperfect** (i.e., missing features, scarce labels, hard-to-interpret, redundant, privacy-leaking, robustness-lacking, etc.). Hence, my research focuses on investigating **Natural Dynamics** (e.g., leveraging spatial-temporal property of graphs) and **Artificial Dynamics** (e.g., augmentation, pruning, etc.) in Graph Mining, Graph Representations, and Graph Neural Networks to achieve task performance upgrades in accuracy, efficiency, explanation, privacy, fairness, etc., and I am also keen on Graph Data Management and Graph Theory.
 
-### **Education**
+### 🏫 **Education**
 University of Illinois at Urbana-Champaign, Aug 2019 - May 2024 (Expected)
 * Ph.D. in Computer Science
 * Advisor: Prof. [Jingrui He](https://www.hejingrui.org/)
@@ -37,7 +37,7 @@ University of Southern California, Jan 2017 - May 2018
 Beijing University of Posts and Telecommunications, Aug 2012 - May 2016 
 * B.Eng. in Internet of Things Engineering
 
-### **Industrial Experience**
+### 🖥️ **Industrial Experience**
 Research Scientist Intern (Monetization GenAI RES Group), May 2023 - October 2023
 * Meta AI, Sunnyvale, CA
 * Scalable Graph Transformer Models
@@ -48,7 +48,7 @@ Research Intern (Impact Science), May 2022 - Aug 2022
 * Causal Structure Discovery on Multivariate Time-Series
 * Mentor: Dr. [Yada Zhu](https://researcher.watson.ibm.com/researcher/view.php?person=us-yzhu)
 
-### **Honors and Awards**
+### 🏆 **Honors and Awards**
 * [C.W. Gear Outstanding Graduate Student Award 2023](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student) (Annually Honor One Graduate Student in CS Department at UIUC)
 * [Conference Presentation Award 2023](https://grad.illinois.edu/general/travelaward) (UIUC Graduate College)
 * [NSF Student Travel Award](https://www.wsdm-conference.org/2023/attending/nsf-student-travel-awards) (To attend WSDM' 2023)
