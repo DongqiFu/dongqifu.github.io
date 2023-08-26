@@ -35,3 +35,15 @@ University of Southern California, Jan 2017 - May 2018
 
 Beijing University of Posts and Telecommunications, Aug 2012 - May 2016 
 * B.Eng. in Internet of Things Engineering
+
+### Honors and Awards
+* [C.W. Gear Outstanding Graduate Student Award 2023](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student) (Annually Honor One Graduate Student in CS Department at UIUC)
+* [Conference Presentation Award 2023](https://grad.illinois.edu/general/travelaward) (UIUC Graduate College)
+* [NSF Student Travel Award](https://www.wsdm-conference.org/2023/attending/nsf-student-travel-awards) (To attend WSDM' 2023)
+* [Rising Stars in Data Mining and Management 2022](https://www.frontiersin.org/research-topics/37426/rising-stars-in-data-mining-and-management-2022) ([Frontiers Journal](https://www.frontiersin.org/articles/10.3389/fdata.2023.1201798/full))
+* [NeurIPS' 2022](https://nips.cc/Conferences/2020/PaperInformation/AC-SACGuidelines) PC Registration Award ([NeurIPS Top 8% Reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee))
+* [NSF/SIGWeb Student Travel Grant](https://www.cikm2022.org/nsf-travel-grants) (To attend CIKM' 2022)
+* [NSF/SIGKDD Student Registration Award](https://kdd.org/kdd2022/cfStudentTravel.html) (To attend KDD' 2022)
+* [ACM/SIGIR Student Travel Grant](https://sigir.org/sigir2021/registration/) (To attend SIGIR' 2021)
+* [ACM/SIGIR Student Travel Grant](https://sigir.org/general-information/travel-grants/) (To attend CIKM' 2020)
+* [NSF/SIGKDD Student Registration Award](https://www.kdd.org/kdd2020/calls/view/kdd-2020-call-for-student-registration-award-applications) (To attend KDD' 2020)
