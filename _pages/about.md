@@ -13,7 +13,7 @@ profile:
               <p>Room 5165</p>
               <p>614 E. Daniel St.</p>
               <p>Champaign, IL 61820</p>
-              <p>dongqif2 [at] illinois [dot] edu</p>
+              <p>dongqif2[at]illinois[dot]edu</p>
       </center>
 
 news: false  # includes a list of news items
