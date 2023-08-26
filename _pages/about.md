@@ -39,9 +39,6 @@ Beijing University of Posts and Telecommunications, Aug 2012 - May 2016
 
 ### **Industrial Experience**
 Research Scientist Intern (Monetization GenAI RES Group), May 2023 - October 2023
-<p align="center">
-  <img src="prof_pic.jpg" alt="Your Image">
-</p>
 * Meta AI, Sunnyvale, CA
 * Scalable Graph Transformer Models
 * Mentor: Dr. [Zhigang Hua](https://dblp.org/pid/76/170.html)
