@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 #### Teaching Assistant, Aug 2021 - Dec 2021
-* [CS412 Introduction to Data Mining](https://arindam.cs.illinois.edu/courses/f21cs412/), [UIUC](https://cs.illinois.edu/)
+* [CS412 Introduction to Data Mining](https://arindam.cs.illinois.edu/courses/f21cs412/), at [UIUC](https://cs.illinois.edu/)
 * Instructor: Prof. [Arindam Banerjee](https://arindam.cs.illinois.edu/)
 
 #### Mentor, Aug 2023 - Present
