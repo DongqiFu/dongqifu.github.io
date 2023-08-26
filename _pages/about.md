@@ -36,6 +36,15 @@ University of Southern California, Jan 2017 - May 2018
 Beijing University of Posts and Telecommunications, Aug 2012 - May 2016 
 * B.Eng. in Internet of Things Engineering
 
+### Professional Experience
+Research Scientist Intern (Monetization GenAI RES Group), May 2023 - October 2023
+* Meta AI, Sunnyvale, CA
+* Mentor: Dr. [Zhigang Hua](https://dblp.org/pid/76/170.html)
+
+Research Intern (Impact Science), May 2022 - Aug 2022
+* IBM Thomas J. Watson Research Center, Yorktown Heights, NY
+* Mentor: Dr. [Yada Zhu](https://researcher.watson.ibm.com/researcher/view.php?person=us-yzhu)
+
 ### Honors and Awards
 * [C.W. Gear Outstanding Graduate Student Award 2023](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student) (Annually Honor One Graduate Student in CS Department at UIUC)
 * [Conference Presentation Award 2023](https://grad.illinois.edu/general/travelaward) (UIUC Graduate College)
