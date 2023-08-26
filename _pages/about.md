@@ -39,10 +39,12 @@ Beijing University of Posts and Telecommunications, Aug 2012 - May 2016
 ### **Industrial Experience**
 Research Scientist Intern (Monetization GenAI RES Group), May 2023 - October 2023
 * Meta AI, Sunnyvale, CA
+* Scalable Graph Transformer Models
 * Mentor: Dr. [Zhigang Hua](https://dblp.org/pid/76/170.html)
 
 Research Intern (Impact Science), May 2022 - Aug 2022
 * IBM Thomas J. Watson Research Center, Yorktown Heights, NY
+* Causal Structure Discovery on Multivariate Time-Series
 * Mentor: Dr. [Yada Zhu](https://researcher.watson.ibm.com/researcher/view.php?person=us-yzhu)
 
 ### **Honors and Awards**
