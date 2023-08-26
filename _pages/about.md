@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://github.com/DongqiFu">GitHub</a> | <a href="https://scholar.google.com/citations?user=WByXZAcAAAAJ&hl=en">Google Scholar</a> | <a href="https://twitter.com/DongqiFu_UIUC">Twitter</a> | dongqif2 [AT] illinois [DOT] edu
+subtitle: <a href="https://github.com/DongqiFu">GitHub</a> | <a href="https://scholar.google.com/citations?user=WByXZAcAAAAJ&hl=en">Google Scholar</a> | <a href="https://twitter.com/DongqiFu_UIUC">Twitter</a>
 
 profile:
   align: right
@@ -13,6 +13,7 @@ profile:
               <p>Room 5165</p>
               <p>614 E. Daniel St.</p>
               <p>Champaign, IL 61820</p>
+              <p>dongqif2 [at] illinois [dot] edu</p>
       </center>
 
 news: false  # includes a list of news items
