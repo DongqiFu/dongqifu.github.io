@@ -24,19 +24,14 @@ I am a final-year Ph.D. student in the [Department of Computer Science](https://
 
 My research interests focus on investigating **Natural Dynamics** and **Artificial Dynamics** in Graph Mining, Graph Representations, and Graph Neural Networks.
 
-<div class="education">
-<h3>Education</h3>
+## Education
+#### University of Illinois at Urbana-Champaign, Aug 2019 - May 2024 (Expected)
+* Ph.D. in Computer Science
+* Advisor: Prof. [Jingrui He](https://www.hejingrui.org/)
 
-<div class="uiuc">
-<a href="https://illinois.edu/">
-University of Illinois at Urbana-Champaign
-</a>
-<p class="major"> 
-Ph.D. in Computer Science
-</p>
-<p class="advisor"> 
-Advisor: [Prof. Jingrui He](https://www.hejingrui.org/)
-</p>
-</div>
+#### University of Southern California, Jan 2017 - May 2018
+* M.Sc. in Data Informatics
+* Advisor: Prof. [T. K. Satish Kumar](http://www.tkskwork.org/)
 
-</div>
+#### Beijing University of Posts and Telecommunications, Aug 2012 - May 2016 
+* B.Eng. in Internet of Things Engineering
