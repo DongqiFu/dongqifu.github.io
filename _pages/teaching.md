@@ -12,16 +12,16 @@ nav_order: 2
 * Instructor: Prof. [Arindam Banerjee](https://arindam.cs.illinois.edu/)
 
 #### Mentor, Aug 2023 - Present
-* [iSAIL Lab](https://isail-laboratory.github.io/)
+* [iSAIL Lab](https://isail-laboratory.github.io/), at [UIUC](https://cs.illinois.edu/)
 * Mentor a Junior Undergraduate for Research on Graph Kernel
 
 #### Mentor, May 2022 - Aug 2023
-* [iSAIL Lab](https://isail-laboratory.github.io/)
+* [iSAIL Lab](https://isail-laboratory.github.io/), at [UIUC](https://cs.illinois.edu/)
 * Mentor a Rising-Senior Undergraduate for Research on PageRank, Graph Alignment, Graph Summarization
 * Next Step: UIUC CS Ph.D. Student
 
 #### Mentor, Aug 2023 - Aug 2023
-* [KDD Undergraduate Consortium 2023](https://kdd.org/kdd2023/call-for-undergraduate-consortium/)
+* [Undergraduate Consortium at KDD' 2023](https://kdd.org/kdd2023/call-for-undergraduate-consortium/)
 * Review and Give Feedback for their Research
 
 #### Mentor, Jul 2022 - Present
