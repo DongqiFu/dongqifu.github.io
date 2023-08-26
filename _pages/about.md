@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://github.com/DongqiFu">GitHub</a> | <a href="https://scholar.google.com/citations?user=WByXZAcAAAAJ&hl=en">Google Scholar</a> | <a href="https://twitter.com/DongqiFu_UIUC">Twitter</a> | dongqif2 [AT] illinois [DOT] edu
+subtitle: [GitHub](https://github.com/DongqiFu) | [Google Scholar](https://scholar.google.com/citations?user=WByXZAcAAAAJ&hl=en) | [Twitter](https://twitter.com/DongqiFu_UIUC) | dongqif2 [AT] illinois [DOT] edu
 
 profile:
   align: right
