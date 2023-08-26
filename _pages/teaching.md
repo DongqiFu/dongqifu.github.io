@@ -18,7 +18,7 @@ nav_order: 2
 #### Mentor, May 2022 - Aug 2023
 * [iSAIL Lab](https://isail-laboratory.github.io/), at [UIUC](https://cs.illinois.edu/)
 * Mentor a Rising-Senior Undergraduate for Research on PageRank, Graph Alignment, Graph Summarization
-* Next Step: UIUC CS Ph.D. Student
+* Next Step of Mentee: UIUC CS Ph.D. Student
 
 #### Mentor, Aug 2023 - Aug 2023
 * [Undergraduate Consortium at KDD' 2023](https://kdd.org/kdd2023/call-for-undergraduate-consortium/)
