@@ -9,7 +9,7 @@ nav_order: 3
 
 #### Lecture Tutorial, February 2023
 * Topic: Natural and Artificial Dynamics in GNNs
-* [The 16th ACM International Conference on Web Search and Data Mining](https://www.wsdm-conference.org/2023/)
+* [The 16th ACM International Conference on Web Search and Data Mining](https://www.wsdm-conference.org/2023/) (WSDM' 2023)
 * [Slides](https://github.com/DongqiFu/Natural-and-Artificial-Dynamics-in-GNNs-A-Tutorial) 
 
 #### Guest Lecture, March 2023
