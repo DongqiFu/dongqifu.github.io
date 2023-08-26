@@ -23,3 +23,20 @@ social: true  # includes social icons at the bottom of the page
 I am a final-year Ph.D. student in the [Department of Computer Science](https://cs.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). It is my great honor to be a student of Prof. [Jingrui He](https://www.hejingrui.org/) at [iSAIL Lab](https://isail-laboratory.github.io/).
 
 My research interests focus on investigating **Natural Dynamics** and **Artificial Dynamics** in Graph Mining, Graph Representations, and Graph Neural Networks.
+
+<div class="education">
+<h3>Education</h3>
+
+<div class="uiuc">
+<a href="https://illinois.edu/">
+University of Illinois at Urbana-Champaign
+</a>
+<p class="major"> 
+Ph.D. in Computer Science
+</p>
+<p class="advisor"> 
+Advisor: [Prof. Jingrui He](https://www.hejingrui.org/)
+</p>
+</div>
+
+</div>
