@@ -16,4 +16,4 @@ nav_order: 3
 * Topic: Dynamics in Graph Neural Networks
 * [CS6804 Machine Learning on Graphs](https://sites.google.com/view/cs-6804-2023s/home), at [Virginia Tech](https://cs.vt.edu/)
 * Host: Prof. [Dawei Zhou](https://sites.google.com/view/dawei-zhou/home?authuser=0)
-* [Slides](https://dongqifu.github.io/publications/Guest_Lecture_VT.pdf)
+* [Slides](https://dongqifu.github.io/assets/pdf/Guest_Lecture_VT.pdf)
