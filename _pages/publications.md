@@ -7,9 +7,10 @@ nav: true
 nav_order: 1
 ---
 
-![Research Scope](https://dongqifu.github.io/assets/img/research_scope.png)
-*My Current Research Scope (Stay Tuned)*
-
+<p align="center">
+  <img src="https://dongqifu.github.io/assets/img/research_scope.png" alt="My Current Research Scope (Stay Tuned)" width="800" height="451">
+</p>
+<p align="center">My Current Research Scope (Stay Tuned)</p>
 
 
 #### Preprint
