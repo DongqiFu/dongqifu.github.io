@@ -10,10 +10,6 @@ nav_order: 1
 #### Preprint
 *  Lecheng Zheng\*, **Dongqi Fu\***, Ross Maciejewski, and Jingrui He. [Deeper-GXX: Deepening Arbitrary GNNs](https://arxiv.org/pdf/2110.13798.pdf), _**arXiv: 2110.13798**_, June 2022. (\*Equal Contribution). [[Paper]](https://arxiv.org/pdf/2110.13798.pdf)
 
-<div class="preprint">
-<p> </p>
-</div> 
-
 #### Journal
 * **Dongqi Fu\***, Wenxuan Bao\*, Ross Maciejewski, Hanghang Tong, Jingrui He.
 [Privacy-Preserving Graph Machine Learning from Data to Computation: A Survey](https://dl.acm.org/doi/10.1145/3606274.3606280). _**SIGKDD Explorations**_, June 2023. (\*Equal Contribution). [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3606274.3606280)
