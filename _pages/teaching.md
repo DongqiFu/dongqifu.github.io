@@ -15,14 +15,14 @@ nav_order: 2
 * [iSAIL Lab](https://isail-laboratory.github.io/), at [UIUC](https://cs.illinois.edu/)
 * Mentor a Junior Undergraduate for Research on Graph Kernel
 
+#### Mentor, Aug 2023 - Aug 2023
+* [Undergraduate Consortium at KDD' 2023](https://kdd.org/kdd2023/call-for-undergraduate-consortium/)
+* Review and Give Feedback for Research on Knowledge Graph Completion
+
 #### Mentor, May 2022 - Aug 2023
 * [iSAIL Lab](https://isail-laboratory.github.io/), at [UIUC](https://cs.illinois.edu/)
 * Mentor a Rising-Senior Undergraduate for Research on PageRank, Graph Alignment, Graph Summarization
 * Next Step of Mentee: UIUC CS Ph.D. Student
-
-#### Mentor, Aug 2023 - Aug 2023
-* [Undergraduate Consortium at KDD' 2023](https://kdd.org/kdd2023/call-for-undergraduate-consortium/)
-* Review and Give Feedback for their Research
 
 #### Mentor, Jul 2022 - Present
 * [ACM@UIUC](https://acm.illinois.edu/)
