@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 <p align="center">
-  <img src="https://dongqifu.github.io/assets/img/research_scope.png" alt="My Current Research Scope (Stay Tuned)">
+  <img src="https://dongqifu.github.io/assets/img/research_scope.png" alt="My Current Research Scope (Stay Tuned)" style="transform: scale(0.5);">
 </p>
 
 #### Preprint
