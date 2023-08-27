@@ -2,11 +2,15 @@
 layout: page
 permalink: /assets/pdf/
 title: Research & Publications
-description: research_scope.png
+description:
 nav: true
 nav_order: 1
 ---
 
+<div style="max-width: 100%; text-align: center;">
+  <img src="https://dongqifu.github.io/assets/img/research_scope.png" alt="My Current Research Scope (Stay Tuned)" style="width: 60%; height: auto;">
+  <p style="font-style: italic;">My Current Research Scope (Stay Tuned)</p>
+</div>
 
 
 
