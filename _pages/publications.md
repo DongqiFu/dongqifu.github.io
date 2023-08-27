@@ -8,7 +8,9 @@ nav_order: 1
 ---
 
 <div style="max-width: 100%; text-align: center;">
-  <img src="https://dongqifu.github.io/assets/img/research_scope.png" alt="My Current Research Scope (Stay Tuned)" style="width: 75%; height: auto;">
+  <a href="https://dongqifu.github.io/assets/img/research_scope.png">
+  <img src="https://dongqifu.github.io/assets/img/research_scope.png" alt="My Current Research Scope (Stay Tuned)" style="width: 80%; height: auto;">
+  </a>
   <p style="font-style: normal;">My Current Research Scope (Stay Tuned)</p>
 </div>
 
