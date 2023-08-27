@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 <p align="center">
-  <img src="https://dongqifu.github.io/assets/img/research_scope.png" alt="My Current Research Scope (Stay Tuned)" width="800" height="451">
+  <img src="https://dongqifu.github.io/assets/img/research_scope.png" alt="My Current Research Scope (Stay Tuned)" width="798" height="450">
 </p>
 <p align="center">My Current Research Scope (Stay Tuned)</p>
 
