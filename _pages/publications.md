@@ -8,8 +8,9 @@ nav_order: 1
 ---
 
 #### Preprint
-<div class="preprint">
 *  Lecheng Zheng\*, **Dongqi Fu\***, Ross Maciejewski, and Jingrui He. [Deeper-GXX: Deepening Arbitrary GNNs](https://arxiv.org/pdf/2110.13798.pdf), _**arXiv: 2110.13798**_, June 2022. (\*Equal Contribution). [[Paper]](https://arxiv.org/pdf/2110.13798.pdf)
+
+<div class="preprint">
 </div> 
 
 #### Journal
