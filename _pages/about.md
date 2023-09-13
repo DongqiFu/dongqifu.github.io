@@ -38,7 +38,7 @@ University of Southern California, Jan 2017 - May 2018
 Beijing University of Posts and Telecommunications, Aug 2012 - May 2016 
 * B.Eng. in Internet of Things Engineering
 
-### 🖥️ **Industrial Experience**
+### 🏭 **Industrial Experience**
 Research Scientist Intern (Monetization GenAI RES Group), May 2023 - October 2023
 * Meta AI, Sunnyvale, CA
 * Scalable Graph Transformer Models
