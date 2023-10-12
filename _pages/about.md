@@ -50,7 +50,7 @@ Research Intern (Impact Science), May 2022 - Aug 2022
 * Mentor: Dr. [Yada Zhu](https://researcher.watson.ibm.com/researcher/view.php?person=us-yzhu)
 
 ### 🏆 **Honors and Awards**
-* [Rising Star in Data Science 2023](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/) (by UChicago and UC San Diego)
+* [Rising Star in Data Science 2023](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/) (By UChicago and UC San Diego)
 * [C.W. Gear Outstanding Graduate Student Award 2023](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student) (Annually Honor One Graduate Student in CS Department at UIUC)
 * [Conference Presentation Award 2023](https://grad.illinois.edu/general/travelaward) (UIUC Graduate College)
 * [NSF Student Travel Award](https://www.wsdm-conference.org/2023/attending/nsf-student-travel-awards) (To attend WSDM' 2023)
