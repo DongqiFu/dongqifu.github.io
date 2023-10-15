@@ -54,7 +54,7 @@ Research Intern (Impact Science), May 2022 - Aug 2022
 * [C.W. Gear Outstanding Graduate Student Award 2023](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student) (Annually Honor One Graduate Student in CS Department at UIUC)
 * [Conference Presentation Award 2023](https://grad.illinois.edu/general/travelaward) (UIUC Graduate College)
 * [NSF Student Travel Award](https://www.wsdm-conference.org/2023/attending/nsf-student-travel-awards) (To attend WSDM' 2023)
-* [Rising Stars in Data Mining and Management 2022](https://www.frontiersin.org/research-topics/37426/rising-stars-in-data-mining-and-management-2022) ([Frontiers Journal](https://www.frontiersin.org/articles/10.3389/fdata.2023.1201798/full))
+* [Rising Star in Data Mining and Management 2022](https://www.frontiersin.org/research-topics/37426/rising-stars-in-data-mining-and-management-2022) ([Frontiers Journal](https://www.frontiersin.org/articles/10.3389/fdata.2023.1201798/full))
 * [NeurIPS 2022 Top 8% Reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee) ([NeurIPS' 2022 PC Registration Award](https://nips.cc/Conferences/2020/PaperInformation/AC-SACGuidelines))
 * [NSF/SIGWEB Student Travel Grant](https://www.cikm2022.org/nsf-travel-grants) (To attend CIKM' 2022)
 * [NSF/SIGKDD Student Registration Award](https://kdd.org/kdd2022/cfStudentTravel.html) (To attend KDD' 2022)
