@@ -45,7 +45,7 @@ Research Scientist Intern (Monetization GenAI RES Group), May 2023 - October 202
 
 Research Intern (Impact Science), May 2022 - Aug 2022
 * IBM Thomas J. Watson Research Center, Yorktown Heights, NY
-* Causal Structure Discovery on Multivariate Time-Series
+* Causal Structure Discovery on Multivariate Time Series
 
 ### 🏆 **Honors and Awards**
 * [Rising Star in Data Science 2023](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/) (By UChicago and UC San Diego)
