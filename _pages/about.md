@@ -49,7 +49,7 @@ Research Intern (Impact Science), May 2022 - Aug 2022
 
 ### 🏆 **Honors and Awards**
 * [Rising Star in Data Science 2023](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/) (By UChicago and UC San Diego)
-* [CS Ph.D. Fellowship](https://grad.illinois.edu/fellowship/fellows) (By UIUC CS Department)
+* [CS Ph.D. Fellowship 2023](https://grad.illinois.edu/fellowship/fellows) (By UIUC CS Department)
 * [C.W. Gear Outstanding Graduate Student Award 2023](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student) (Annually Honor One Graduate Student in UIUC CS Department)
 * [Conference Presentation Award 2023](https://grad.illinois.edu/general/travelaward) (By UIUC Graduate College)
 * [NSF Student Travel Award](https://www.wsdm-conference.org/2023/attending/nsf-student-travel-awards) (To attend WSDM' 2023)
