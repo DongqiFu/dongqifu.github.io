@@ -2,16 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://github.com/DongqiFu">GitHub</a> | <a href="https://scholar.google.com/citations?user=WByXZAcAAAAJ&hl=en">Google Scholar</a> | <a href="https://twitter.com/DongqiFu_UIUC">Twitter</a>
+subtitle: <a href="https://github.com/DongqiFu">GitHub</a> | <a href="https://scholar.google.com/citations?user=WByXZAcAAAAJ&hl=en">Google Scholar</a> | <a href="https://twitter.com/DongqiFu_UIUC">Twitter</a> | dongqif2[at]illinois[dot]edu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  <!--
   address: >
       <center>
               <p>dongqif2[at]illinois[dot]edu</p>
-      </center>
+      </center> -->
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
