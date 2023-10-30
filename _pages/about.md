@@ -39,12 +39,12 @@ Beijing University of Posts and Telecommunications, Aug 2012 - May 2016
 * B.Eng. in Internet of Things Engineering
 
 ### 🏭 **Industrial Experience**
-Research Scientist Intern (Monetization GenAI RES Group), May 2023 - October 2023
-* Meta AI, Sunnyvale, CA
+Meta AI, Sunnyvale CA, May 2023 - Oct 2023
+* Research Scientist Intern, Monetization GenAI RES Group
 * Scalable Graph Transformer Models
 
-Research Intern (Impact Science), May 2022 - Aug 2022
-* IBM Thomas J. Watson Research Center, Yorktown Heights, NY
+IBM Thomas J. Watson Research, Yorktown Heights NY, May 2022 - Aug 2022
+* Research Intern, Impact Science
 * Multivariate Time-Series Forecasting and Anomaly Detection
 
 ### 🏆 **Honors and Awards**
