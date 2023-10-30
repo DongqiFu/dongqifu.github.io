@@ -10,9 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
       <center>
-              <p>Room 5165</p>
-              <p>614 E. Daniel St.</p>
-              <p>Champaign, IL 61820</p>
               <p>dongqif2[at]illinois[dot]edu</p>
       </center>
 
