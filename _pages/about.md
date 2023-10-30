@@ -48,7 +48,7 @@ Research Intern (Impact Science), May 2022 - Aug 2022
 * Multivariate Time-Series Forecasting and Anomaly Detection
 
 ### 🏆 **Honors and Awards**
-* [Rising Star in Data Science 2023](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/) (By UChicago and UC San Diego)
+* [Rising Star in Data Science 2023](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars-in-data-science-2/2023-rising-stars/) (By UChicago and UC San Diego)
 * [CS Ph.D. Fellowship 2023](https://grad.illinois.edu/fellowship/fellows) (By UIUC CS Department)
 * [C.W. Gear Outstanding Graduate Student Award 2023](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student) (Annually Honor One Graduate Student in UIUC CS Department)
 * [Conference Presentation Award 2023](https://grad.illinois.edu/general/travelaward) (By UIUC Graduate College)
