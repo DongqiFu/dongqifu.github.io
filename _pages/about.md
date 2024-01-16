@@ -27,23 +27,23 @@ _"The Only Constant in Life Is Change" --Heraclitus_
 I am interested in adapting/developing data mining and machine learning algorithms to/on graph data (i.e., non-IID, relational, non-grid, non-Euclidean data). Moreover, the real-world graph data can be (1) **related to the temporal information** (i.e., time-evolving topological structures, time-evolving node/graph features/labels, etc.) and (2) **imperfect** (i.e., missing features, scarce labels, hard-to-interpret, redundant, privacy-leaking, robustness-lacking, etc.). Hence, my research focuses on investigating (1) **Natural Dynamics** (e.g., leveraging spatial-temporal properties of graphs) and (2) **Artificial Dynamics** (e.g., augmenting and pruning graph components) in Graph Mining, Graph Representations, and Graph Neural Networks to achieve task performance upgrades in accuracy, efficiency, explanation, privacy, fairness, etc., and I am also keen on Graph Data Management and Graph Theory.
 
 ### 🏫 **Education**
-University of Illinois at Urbana-Champaign, Aug 2019 - May 2024 (Expected)
+[University of Illinois at Urbana-Champaign](https://illinois.edu/), Aug 2019 - May 2024 (Expected)
 * Ph.D. in Computer Science
 * Advisor: Prof. [Jingrui He](https://www.hejingrui.org/)
 
-University of Southern California, Jan 2017 - May 2018
+[University of Southern California](https://www.usc.edu/), Jan 2017 - May 2018
 * M.Sc. in Data Informatics
 * Advisor: Prof. [T. K. Satish Kumar](http://www.tkskwork.org/)
 
-Beijing University of Posts and Telecommunications, Aug 2012 - May 2016 
+[Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications), Aug 2012 - May 2016 
 * B.Eng. in Internet of Things Engineering
 
 ### 🏭 **Industry Experience**
-Meta AI, Sunnyvale CA, May 2023 - Oct 2023
+[Meta AI](https://ai.meta.com/), Sunnyvale CA, May 2023 - Oct 2023
 * Research Scientist Intern, Monetization GenAI RES Group
 * Scalable Graph Transformer Models
 
-IBM Thomas J. Watson Research, Yorktown Heights NY, May 2022 - Aug 2022
+[IBM Thomas J. Watson Research](https://research.ibm.com/labs/yorktown-heights), Yorktown Heights NY, May 2022 - Aug 2022
 * Research Intern, Impact Science
 * Multivariate Time-Series Forecasting and Anomaly Detection
 
