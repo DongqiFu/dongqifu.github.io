@@ -11,7 +11,7 @@ nav_order: 1
   <a href="https://dongqifu.github.io/assets/img/research_scope.png">
   <img src="https://dongqifu.github.io/assets/img/research_scope.png" alt="My Current Research Scope (Stay Tuned)" style="width: 100%; height: auto;">
   </a>
-  <p style="font-style: normal;">My Current Research Scope (Stay Tuned)</p>
+  <p style="font-style: normal;">Graph AI Development</p>
 </div>
 
 #### **Journal**
