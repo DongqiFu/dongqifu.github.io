@@ -49,12 +49,12 @@ I am interested in adapting/developing data mining and machine learning algorith
 
 ### 🏆 **Honors and Awards**
 * [SIAM Student Travel Award](https://www.siam.org/conferences/conference-support/siam-student-travel-awards) (To attend SDM' 2024)
-* [**Rising Star in Data Science** 2023](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars-in-data-science-2/2023-rising-stars/) (By UChicago and UC San Diego)
+* [**Rising Star in Data Science 2023**](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars-in-data-science-2/2023-rising-stars/) (By UChicago and UC San Diego)
 * [CS Ph.D. Fellowship 2023](https://grad.illinois.edu/fellowship/fellows) (By UIUC CS Department)
-* [**C.W. Gear Outstanding Graduate Student** 2023](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student) (Annually Honor One Graduate Student in UIUC CS Department)
+* [**C.W. Gear Outstanding Graduate Student 2023**](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student) (Annually Honor One Graduate Student in UIUC CS Department)
 * [Conference Presentation Award 2023](https://grad.illinois.edu/general/travelaward) (By UIUC Graduate College)
 * [NSF Student Travel Award](https://www.wsdm-conference.org/2023/attending/nsf-student-travel-awards) (To attend WSDM' 2023)
-* [**Rising Star in Data Mining and Management** 2022](https://www.frontiersin.org/research-topics/37426/rising-stars-in-data-mining-and-management-2022) (By [Frontiers Journal](https://www.frontiersin.org/articles/10.3389/fdata.2023.1201798/full))
+* [**Rising Star in Data Mining and Management 2022**](https://www.frontiersin.org/research-topics/37426/rising-stars-in-data-mining-and-management-2022) (By [Frontiers Journal](https://www.frontiersin.org/articles/10.3389/fdata.2023.1201798/full))
 * [**NeurIPS 2022 Top 8% Reviewer**](https://neurips.cc/Conferences/2022/ProgramCommittee) with [PC Registration Award](https://nips.cc/Conferences/2020/PaperInformation/AC-SACGuidelines) (By NeurIPS' 2022)
 * [NSF/SIGWEB Student Travel Grant](https://www.cikm2022.org/nsf-travel-grants) (To attend CIKM' 2022)
 * [NSF/SIGKDD Student Registration Award](https://kdd.org/kdd2022/cfStudentTravel.html) (To attend KDD' 2022)
