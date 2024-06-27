@@ -39,8 +39,8 @@ I am interested in adapting/developing data mining and machine learning algorith
 * B.Eng. in Internet of Things Engineering
 
 ### 🏭 **Industry Experience**
-[Meta AI](https://ai.meta.com/), Sunnyvale CA, May 2023 - Oct 2023
-* Research Scientist Intern, Monetization GenAI RES Group
+[AI at Meta](https://ai.meta.com/research/), Sunnyvale CA, May 2023 - Oct 2023
+* Research Scientist Intern, Ranking & Foundational AI
 * Scalable Graph Transformer Models
 
 [IBM Thomas J. Watson Research](https://research.ibm.com/labs/yorktown-heights), Yorktown Heights NY, May 2022 - Aug 2022
