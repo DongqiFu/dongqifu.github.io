@@ -22,6 +22,8 @@ nav_order: 1
   + **ICML 2024** (AI4Science Workshop)
   + [To Appear]
 
+<br />
+
 * [**VCR-Graphormer: A Mini-batch Graph Transformer via Virtual Connections**](https://github.com/DongqiFu/VCR-Graphormer)
   + **Dongqi Fu**, Zhigang Hua, Yan Xie, Jin Fang, Si Zhang, Kaan Sancak, Hao Wu, Andrey Malevich, Jingrui He, Bo Long
   + **ICLR 2024**
