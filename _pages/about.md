@@ -49,8 +49,8 @@ I am a Research Scientist in Ranking and Foundational AI at Meta, and I work in 
 * [Rising Star in Data Science 2023](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars-in-data-science-2/2023-rising-stars/) (By UChicago DSI and UCSD HDSI)
 * [CS Ph.D. Fellowship 2023](https://grad.illinois.edu/fellowship/fellows) (By UIUC CS)
 * [C.W. Gear Outstanding Graduate Student 2023](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student) (By UIUC CS)
-* [**Rising Star in Data Mining and Management 2022**](https://www.frontiersin.org/research-topics/37426/rising-stars-in-data-mining-and-management-2022) (By Frontiers Journal)
-* [**NeurIPS 2022 Top 8% Reviewer**](https://neurips.cc/Conferences/2022/ProgramCommittee) with [PC Registration Award](https://nips.cc/Conferences/2020/PaperInformation/AC-SACGuidelines) (By NeurIPS Conference 2022)
+* [Rising Star in Data Mining and Management 2022](https://www.frontiersin.org/research-topics/37426/rising-stars-in-data-mining-and-management-2022) (By Frontiers Journal)
+* [NeurIPS 2022 Top 8% Reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee) with [PC Registration Award](https://nips.cc/Conferences/2020/PaperInformation/AC-SACGuidelines) (By NeurIPS Conference 2022)
 
 <!--- 
 * [SIAM Student Travel Award](https://www.siam.org/conferences/conference-support/siam-student-travel-awards) (To attend SDM' 2024)
