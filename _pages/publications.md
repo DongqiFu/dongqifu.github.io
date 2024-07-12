@@ -21,14 +21,15 @@ nav_order: 1
   + **Dongqi Fu**, Yada Zhu, Hanghang Tong, Kommy Weldemariam, Onkar Bhardwaj, Jingrui He
   + **ICML 2024** (AI4Science Workshop)
   + [To Appear]
-
-
+  
+<p>  </p>
+ 
 * [**VCR-Graphormer: A Mini-batch Graph Transformer via Virtual Connections**](https://github.com/DongqiFu/VCR-Graphormer)
   + **Dongqi Fu**, Zhigang Hua, Yan Xie, Jin Fang, Si Zhang, Kaan Sancak, Hao Wu, Andrey Malevich, Jingrui He, Bo Long
   + **ICLR 2024**
   +  [[Paper]](https://arxiv.org/pdf/2403.16030.pdf) [[Poster]](https://github.com/DongqiFu/VCR-Graphormer/blob/main/poster.png) [[Code]](https://github.com/DongqiFu/VCR-Graphormer)
 
-
+&nbsp;
 * [**Investigating Natural and Artificial Dynamics in Graph Data Mining and Machine Learning**](https://dl.acm.org/doi/10.1145/3583780.3616007)
   + **Dongqi Fu**
   + **CIKM 2023** (Doctoral Symposium)
