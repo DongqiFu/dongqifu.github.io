@@ -18,6 +18,7 @@ nav_order: 1
 
 
 > ###### [16] **Generating Fine-Grained Causality in Climate Time Series Data for Forecasting and Anomaly Detection**
+
   * **Dongqi Fu**, Yada Zhu, Hanghang Tong, Kommy Weldemariam, Onkar Bhardwaj, Jingrui He
   * **ICML 2024** (AI4Science Workshop)
   * [To Appear]
