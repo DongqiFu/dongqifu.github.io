@@ -23,15 +23,15 @@ social: true  # includes social icons at the bottom of the page
 I am a Research Scientist in Ranking and Foundational AI (RFAI) at Meta, and I work on Geometric Deep Learning and Network Science for their broad applications.
 
 ### 🏫 **Education**
-[University of Illinois Urbana-Champaign](https://illinois.edu/), Aug 2019 - Jun 2024
+[University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/), 2019 - 2024
 * Ph.D. in Computer Science
 * Advisor: Prof. [Jingrui He](https://www.hejingrui.org/)
 
-[University of Southern California](https://www.usc.edu/), Jan 2017 - May 2018
+[University of Southern California (USC)](https://www.usc.edu/), 2017 - 2018
 * M.Sc. in Data Informatics
 * Advisor: Prof. [T. K. Satish Kumar](http://www.tkskwork.org/)
 
-[Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications), Aug 2012 - May 2016 
+[Beijing University of Posts and Telecommunications (BUPT)](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications), 2012 - 2016 
 * B.Eng. in Internet of Things Engineering
 
 <!---
