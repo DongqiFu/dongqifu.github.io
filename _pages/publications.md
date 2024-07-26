@@ -16,7 +16,7 @@ nav_order: 1
 </div>
 -->
 
-16. **Generating Fine-Grained Causality in Climate Time Series Data for Forecasting and Anomaly Detection**\
+16.**Generating Fine-Grained Causality in Climate Time Series Data for Forecasting and Anomaly Detection**\
 &nbsp;🔹 **Dongqi Fu**, Yada Zhu, Hanghang Tong, Kommy Weldemariam, Onkar Bhardwaj, Jingrui He\
 &nbsp;🔹 **ICML 2024** (AI4Science Workshop)\
 &nbsp;🔹 [To Appear]
@@ -24,21 +24,21 @@ nav_order: 1
 <p> </p>
 <p> </p>
 
-15. [**VCR-Graphormer: A Mini-batch Graph Transformer via Virtual Connections**](https://github.com/DongqiFu/VCR-Graphormer)\
+15.[**VCR-Graphormer: A Mini-batch Graph Transformer via Virtual Connections**](https://github.com/DongqiFu/VCR-Graphormer)\
 &nbsp;🔹 **Dongqi Fu**, Zhigang Hua, Yan Xie, Jin Fang, Si Zhang, Kaan Sancak, Hao Wu, Andrey Malevich, Jingrui He, Bo Long\
 &nbsp;🔹 **ICLR 2024**\
 &nbsp;🔹 [[Paper]](https://arxiv.org/pdf/2403.16030.pdf) [[Poster]](https://github.com/DongqiFu/VCR-Graphormer/blob/main/poster.png) [[Code]](https://github.com/DongqiFu/VCR-Graphormer)
 
 <p>  </p>
 
-14 [**Investigating Natural and Artificial Dynamics in Graph Data Mining and Machine Learning**](https://dl.acm.org/doi/10.1145/3583780.3616007)\
+14.[**Investigating Natural and Artificial Dynamics in Graph Data Mining and Machine Learning**](https://dl.acm.org/doi/10.1145/3583780.3616007)\
 &nbsp;🔹 **Dongqi Fu**\
 &nbsp;🔹 **CIKM 2023** (Doctoral Symposium)\
 &nbsp;🔹 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583780.3616007?casa_token=hRzfvZ6LFU8AAAAA:qzcokEzmjVfCTxmd435ynKKH-_Ttt6LcTtPQ4J55B-OCvQGBeNhu_XYZHIcEXkxPL4-hnB0nACOM)
 
 <p>  </p>
 
-13 [**Privacy-Preserving Graph Machine Learning from Data to Computation: A Survey**](https://dl.acm.org/doi/10.1145/3606274.3606280)\
+13.[**Privacy-Preserving Graph Machine Learning from Data to Computation: A Survey**](https://dl.acm.org/doi/10.1145/3606274.3606280)\
 &nbsp;🔹 **Dongqi Fu\***, Wenxuan Bao\*, Ross Maciejewski, Hanghang Tong, Jingrui He (\*Equal Contribution)\
 &nbsp;🔹 **SIGKDD Explorations**, June 2023\
 &nbsp;🔹 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3606274.3606280)
