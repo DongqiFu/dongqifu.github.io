@@ -16,7 +16,7 @@ nav_order: 1
 </div>
 -->
 
-16 **Generating Fine-Grained Causality in Climate Time Series Data for Forecasting and Anomaly Detection**\
+16. **Generating Fine-Grained Causality in Climate Time Series Data for Forecasting and Anomaly Detection**\
 &nbsp;🔹 **Dongqi Fu**, Yada Zhu, Hanghang Tong, Kommy Weldemariam, Onkar Bhardwaj, Jingrui He\
 &nbsp;🔹 **ICML 2024** (AI4Science Workshop)\
 &nbsp;🔹 [To Appear]
@@ -24,7 +24,7 @@ nav_order: 1
 <p> </p>
 <p> </p>
 
-15 [**VCR-Graphormer: A Mini-batch Graph Transformer via Virtual Connections**](https://github.com/DongqiFu/VCR-Graphormer)\
+15. [**VCR-Graphormer: A Mini-batch Graph Transformer via Virtual Connections**](https://github.com/DongqiFu/VCR-Graphormer)\
 &nbsp;🔹 **Dongqi Fu**, Zhigang Hua, Yan Xie, Jin Fang, Si Zhang, Kaan Sancak, Hao Wu, Andrey Malevich, Jingrui He, Bo Long\
 &nbsp;🔹 **ICLR 2024**\
 &nbsp;🔹 [[Paper]](https://arxiv.org/pdf/2403.16030.pdf) [[Poster]](https://github.com/DongqiFu/VCR-Graphormer/blob/main/poster.png) [[Code]](https://github.com/DongqiFu/VCR-Graphormer)
