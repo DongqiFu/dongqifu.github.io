@@ -23,15 +23,15 @@ social: true  # includes social icons at the bottom of the page
 I am a Research Scientist in Ranking and Foundational AI (RFAI) at Meta, and I work on Geometric Deep Learning and Network Science for their broad applications.
 
 ### 🏫 **Education**
-[University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/), 2019 - 2024
+[**University of Illinois Urbana-Champaign (UIUC)**](https://illinois.edu/), 2019 - 2024
 * Ph.D. in Computer Science
 * Advisor: Prof. [Jingrui He](https://www.hejingrui.org/)
 
-[University of Southern California (USC)](https://www.usc.edu/), 2017 - 2018
+[**University of Southern California (USC)**](https://www.usc.edu/), 2017 - 2018
 * M.Sc. in Data Informatics
 * Advisor: Prof. [T. K. Satish Kumar](http://www.tkskwork.org/)
 
-[Beijing University of Posts and Telecommunications (BUPT)](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications), 2012 - 2016 
+[**Beijing University of Posts and Telecommunications (BUPT)**](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications), 2012 - 2016 
 * B.Eng. in Internet of Things Engineering
 
 <!---
@@ -46,11 +46,11 @@ I am a Research Scientist in Ranking and Foundational AI (RFAI) at Meta, and I w
 -->
 
 ### 🏆 **Selected Awards**
-* [Rising Star in Data Science 2023](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars-in-data-science-2/2023-rising-stars/) (By UChicago DSI and UCSD HDSI)
-* [CS Ph.D. Fellowship 2023](https://grad.illinois.edu/fellowship/fellows) (By UIUC CS)
-* [C.W. Gear Outstanding Graduate Student 2023](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student) (By UIUC CS)
-* [Rising Star in Data Mining and Management 2022](https://www.frontiersin.org/research-topics/37426/rising-stars-in-data-mining-and-management-2022) (By Frontiers Journal)
-* [NeurIPS 2022 Top 8% Reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee) with [PC Registration Award](https://nips.cc/Conferences/2020/PaperInformation/AC-SACGuidelines) (By NeurIPS Conference 2022)
+* [**Rising Star in Data Science 2023**](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars-in-data-science-2/2023-rising-stars/) (By UChicago DSI and UCSD HDSI)
+* [**CS Ph.D. Fellowship 2023**](https://grad.illinois.edu/fellowship/fellows) (By UIUC CS)
+* [**C.W. Gear Outstanding Graduate Student 2023**](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student) (By UIUC CS)
+* [**Rising Star in Data Mining and Management 2022**](https://www.frontiersin.org/research-topics/37426/rising-stars-in-data-mining-and-management-2022) (By Frontiers Journal)
+* [**NeurIPS 2022 Top 8% Reviewer**](https://neurips.cc/Conferences/2022/ProgramCommittee) with [**PC Registration Award**](https://nips.cc/Conferences/2020/PaperInformation/AC-SACGuidelines) (By NeurIPS Conference 2022)
 
 <!--- 
 * [SIAM Student Travel Award](https://www.siam.org/conferences/conference-support/siam-student-travel-awards) (To attend SDM' 2024)
