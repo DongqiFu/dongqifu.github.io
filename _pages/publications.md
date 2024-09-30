@@ -16,6 +16,21 @@ nav_order: 1
 </div>
 -->
 
+**19**.&nbsp;**Temporal Graph Neural Tangent Kernel with Graphon-Guaranteed**\
+&nbsp;🔻 Katherine Tieu*, **Dongqi Fu***, Yada Zhu, Hendrik Hamann, Jingrui He (*Equal Contribution)\
+&nbsp;🔻 **NeurIPS 2024**\
+&nbsp;🔻 To Appear
+
+**18**.&nbsp;**PageRank Bandits for Link Prediction**\
+&nbsp;🔻 Yikun Ban*, Jiaru Zou*, Zihao Li, Yunzhe Qi, **Dongqi Fu**, Jian Kang, Hanghang Tong, Jingrui He (*Equal Contribution)\
+&nbsp;🔻 **NeurIPS 2024**\
+&nbsp;🔻 To Appear
+
+**17**.&nbsp;**BackTime: Backdoor Attacks on Multivariate Time Series Forecasting**\
+&nbsp;🔻 Xiao Lin, Zhining Liu, **Dongqi Fu**, Ruizhong Qiu, Hanghang Tong\
+&nbsp;🔻 **NeurIPS 2024** (Spotlight)\
+&nbsp;🔻 To Appear
+
 **16**.&nbsp;**Generating Fine-Grained Causality in Climate Time Series Data for Forecasting and Anomaly Detection**\
 &nbsp;🔻 **Dongqi Fu**, Yada Zhu, Hanghang Tong, Kommy Weldemariam, Onkar Bhardwaj, Jingrui He\
 &nbsp;🔻 **ICML 2024** (AI4Science Workshop)\
