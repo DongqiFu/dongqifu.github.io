@@ -17,12 +17,12 @@ nav_order: 1
 -->
 
 **19**.&nbsp;**Temporal Graph Neural Tangent Kernel with Graphon-Guaranteed**\
-&nbsp;🔻 Katherine Tieu*, **Dongqi Fu***, Yada Zhu, Hendrik Hamann, Jingrui He (*Equal Contribution)\
+&nbsp;🔻 Katherine Tieu\*, **Dongqi Fu\***, Yada Zhu, Hendrik Hamann, Jingrui He (*Equal Contribution)\
 &nbsp;🔻 **NeurIPS 2024**\
 &nbsp;🔻 To Appear
 
 **18**.&nbsp;**PageRank Bandits for Link Prediction**\
-&nbsp;🔻 Yikun Ban*, Jiaru Zou*, Zihao Li, Yunzhe Qi, **Dongqi Fu**, Jian Kang, Hanghang Tong, Jingrui He (*Equal Contribution)\
+&nbsp;🔻 Yikun Ban\*, Jiaru Zou\*, Zihao Li, Yunzhe Qi, **Dongqi Fu**, Jian Kang, Hanghang Tong, Jingrui He (*Equal Contribution)\
 &nbsp;🔻 **NeurIPS 2024**\
 &nbsp;🔻 To Appear
 
