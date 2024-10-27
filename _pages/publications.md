@@ -17,7 +17,7 @@ nav_order: 1
 -->
 
 **20**.&nbsp;**Temporal Graph Neural Tangent Kernel with Graphon-Guaranteed**\
-&nbsp;🔻 Katherine Tieu\*, **Dongqi Fu\***, Yada Zhu, Hendrik Hamann, Jingrui He (*Equal Contribution)\
+&nbsp;🔻 Katherine Tieu\*, **Dongqi Fu**\*, Yada Zhu, Hendrik Hamann, Jingrui He (*Equal Contribution)\
 &nbsp;🔻 **NeurIPS 2024**\
 &nbsp;🔻 To Appear
 
@@ -32,7 +32,7 @@ nav_order: 1
 &nbsp;🔻 To Appear
 
 **17**.&nbsp;**DrGNN: Deep Residual Graph Neural Network with Contrastive Learning**\
-&nbsp;🔻 Lecheng Zheng\*, **Dongqi Fu\***, Ross Maciejewski, Jingrui He (*Equal Contribution)\
+&nbsp;🔻 Lecheng Zheng\*, **Dongqi Fu**\*, Ross Maciejewski, Jingrui He (*Equal Contribution)\
 &nbsp;🔻 **TMLR**, October 2024\
 &nbsp;🔻 To Appear
 
@@ -58,7 +58,7 @@ nav_order: 1
 <p>  </p>
 
 **13**.&nbsp;[**Privacy-Preserving Graph Machine Learning from Data to Computation: A Survey**](https://dl.acm.org/doi/10.1145/3606274.3606280)\
-&nbsp;🔻 **Dongqi Fu\***, Wenxuan Bao\*, Ross Maciejewski, Hanghang Tong, Jingrui He (\*Equal Contribution)\
+&nbsp;🔻 **Dongqi Fu**\*, Wenxuan Bao\*, Ross Maciejewski, Hanghang Tong, Jingrui He (\*Equal Contribution)\
 &nbsp;🔻 **SIGKDD Explorations**, June 2023\
 &nbsp;🔻 [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3606274.3606280)
 
@@ -72,7 +72,7 @@ nav_order: 1
 <p>  </p>
 
 **11**.&nbsp;[**Everything Evolves in Personalized PageRank**](https://github.com/DongqiFu/EvePPR)\
-&nbsp;🔻 Zihao Li\*, **Dongqi Fu\***, Jingrui He (\*Equal Contribution)\
+&nbsp;🔻 Zihao Li\*, **Dongqi Fu**\*, Jingrui He (\*Equal Contribution)\
 &nbsp;🔻 **WWW 2023**\
 &nbsp;🔻 [[Paper]](https://dongqifu.github.io/assets/pdf/EvePPR.pdf) [[Slides]](https://github.com/DongqiFu/EvePPR/blob/main/slides/WWW'23_EvePPR_Presentation_Slides.pdf) [[Code]](https://github.com/DongqiFu/EvePPR/tree/main/code)
 
@@ -121,7 +121,7 @@ nav_order: 1
 <p>  </p>
 
 **4**.&nbsp;[**Meta-Learned Metrics over Multi-Evolution Temporal Graphs**](https://github.com/DongqiFu/Temp-GFSM)\
-&nbsp;🔻 **Dongqi Fu\***, Liri Fang\*, Ross Maciejewski, Vetle I Torvik, Jingrui He (\*Equal Contribution)\
+&nbsp;🔻 **Dongqi Fu**\*, Liri Fang\*, Ross Maciejewski, Vetle I Torvik, Jingrui He (\*Equal Contribution)\
 &nbsp;🔻 **KDD 2022**\
 &nbsp;🔻 [[Paper]](https://dongqifu.github.io/assets/pdf/Temp-GFSM.pdf) [[Slides]](https://github.com/DongqiFu/Temp-GFSM/blob/main/Slides/KDD'22_Temp-GFSM_Presentation_Slides.pdf) [[Video]](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3534678.3539313&file=KDD22-fp0916.mp4) [[Code]](https://github.com/LiriFang/Temp-GFSM)
 
@@ -135,7 +135,7 @@ nav_order: 1
 <p>  </p>
 
 **2**.&nbsp;[**A View-Adversarial Framework for Multi-View Network Embedding**](https://github.com/DongqiFu/VANE)\
-&nbsp;🔻 **Dongqi Fu\***, Zhe Xu\*, Bo Li, Hanghang Tong, Jingrui He (\*Equal Contribution)\
+&nbsp;🔻 **Dongqi Fu**\*, Zhe Xu\*, Bo Li, Hanghang Tong, Jingrui He (\*Equal Contribution)\
 &nbsp;🔻 **CIKM 2020**\
 &nbsp;🔻 [[Paper]](https://dongqifu.github.io/assets/pdf/VANE.pdf) [[Slides]](https://github.com/DongqiFu/VANE/blob/master/slides/CIKM'20_VANE_Presentation_Slides.pdf) [[Video]](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3340531.3412127&file=3340531.3412127.mp4&download=true) [[Code]](https://github.com/pricexu/VANE)
 
