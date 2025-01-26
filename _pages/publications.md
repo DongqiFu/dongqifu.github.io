@@ -15,28 +15,28 @@ nav_order: 1
   <p style="font-style: normal;">Graph AI Development</p>
 </div>
 -->
-
+  
 <details open>
   <summary><h3>Published</h3></summary>
   <p>24. <b>Learning Graph Quantized Tokenizers for Transformers</b></p>
   <p>🔻Limei Wang*, Kaveh Hassani*, Si Zhang, <b>Dongqi Fu</b>, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long (*Equal Contribution)</p>
   <p>🔻<b>ICLR 2025</b></p>
-  <p>🔻[To Appear]
+  <p>🔻[To Appear] </p>
 
   <p>23. <b>Temporal Heterogeneous Graph Generation with Privacy, Utility, and Efficiency</b></p>
   <p>🔻Xinyu He*, <b>Dongqi Fu*</b>, Hanghang Tong, Ross Maciejewski, Jingrui He (*Equal Contribution)</p>
   <p>🔻<b>ICLR 2025</b></p>
-  <p>🔻[To Appear]
+  <p>🔻[To Appear] </p>
 
   <p>22. <b>Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem</b></p>
   <p>🔻Katherine Tieu, <b>Dongqi Fu</b>, Jun Wu, Jingrui He </p>
   <p>🔻<b>AISTATS 2025</b></p>
-  <p>🔻[To Appear]
+  <p>🔻[To Appear] </p>
 
-  <p>21. <b>APEX$^2$: Adaptive and Extreme Summarization for Personalized Knowledge Graphs</b></p>
+  <p>21. <b>APEX²: Adaptive and Extreme Summarization for Personalized Knowledge Graphs</b></p>
   <p>🔻Zihao Li, <b>Dongqi Fu</b>, Mengting Ai, Jingrui He </p>
   <p>🔻<b>KDD 2025</b></p>
-  <p>🔻[To Appear]
+  <p>🔻[To Appear] </p>
   
   <p>20. <b>Temporal Graph Neural Tangent Kernel with Graphon-Guaranteed</b></p>
   <p>🔻Katherine Tieu*, <b>Dongqi Fu*</b>, Yada Zhu, Hendrik Hamann, Jingrui He (*Equal Contribution)</p>
@@ -71,7 +71,7 @@ nav_order: 1
   <p>14. <b>Investigating Natural and Artificial Dynamics in Graph Data Mining and Machine Learning</b></p>
   <p>🔻<b>Dongqi Fu</b></p>
   <p>🔻<b>CIKM 2023</b> (Doctoral Symposium)</p>
-  <p>🔻<a href="https://dl.acm.org/doi/pdf/10.1145/3583780.3616007?casa_token=hRzfvZ6LFU8AAAAA:qzcokEzmjVfCTxmd435ynKKH-_Ttt6LcTtPQ4J55B-OCvQGBeNhu_XYZHIcEXkxPL4-hnB0nACOM">Paper</a></p>
+  <p>🔻<a href="https://dl.acm.org/doi/pdf/10.1145/3583780.3616007?casa_token=hRzfvZ6LFU8AAAAA:qzcokEzmjVfCTxmd435ynKKH-_Ttt6LcTtPQ4J55B-OCvQGBeNhu_XYZHIcEXkxPL4-hnB0nACOM">[Paper]</a></p>
   
   <p>13. <b>Privacy-Preserving Graph Machine Learning from Data to Computation: A Survey</b></p>
   <p>🔻<b>Dongqi Fu*</b>, Wenxuan Bao*, Ross Maciejewski, Hanghang Tong, Jingrui He (*Equal Contribution)</p>
@@ -140,6 +140,32 @@ nav_order: 1
 
 </details>
 
-  &nbsp;🔻 [[Paper]](https://dongqifu.github.io/assets/pdf/L-MEGA.pdf) [[Slides]](https://github.com/DongqiFu/L-MEGA/blob/master/slides/KDD'20_L-MEGA_Slides.pdf) [[Video]](https://www.youtube.com/watch?v=2Z-SS1IchGc&feature=emb_title) [[Code]](https://github.com/DongqiFu/L-MEGA)
-  </summary>
+<!--
+<details close>
+  <summary><h3>Pre-print</h3></summary>
+  <p><b>Parametric Graph Representations in the Era of Foundation Models: A Survey and Position</b></p>
+  <p>🔻<b>Dongqi Fu*</b>, Liri Fang*, Zihao Li*, Hanghang Tong, Vetle I Torvik, Jingrui He (*Equal Contribution)</p>
+  <p>🔻<a href="https://arxiv.org/pdf/2410.12126?">[arXiv]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/pyg-ssl">[Code]</a></p>
+  
+  <p><b>PyG-SSL: A Graph Self-Supervised Learning Toolkit</b></p>
+  <p>🔻Lecheng Zheng*, Baoyu Jing*, Zihao Li*, Zhichen Zeng, Tianxin Wei, Mengting Ai, Xinrui He, Lihui Liu, <b>Dongqi Fu</b>, Jiaxuan You, Hanghang Tong, Jingrui He (*Equal Contribution)</p>
+  <p>🔻<a href="https://arxiv.org/pdf/2412.21151">[arXiv]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/pyg-ssl">[Code]</a></p>
+
+  <p><b>Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?</b></p>
+  <p>🔻Zihao Li, Lecheng Zheng, Bowen Jin, <b>Dongqi Fu</b>, Baoyu Jing, Yikun Ban, Jingrui He, Jiawei Han</p>
+  <p>🔻<b>arXiv</b></p>
+  <p>🔻<a href="https://arxiv.org/pdf/2412.21151">[arXiv]</a>
+
+  <p><b>Language Models are Graph Learners</b></p>
+  <p>🔻Zhe Xu, Kaveh Hassani, Si Zhang, Hanqing Zeng, Michihiro Yasunaga, Limei Wang, <b>Dongqi Fu</b>, Ning Yao, Bo Long, Hanghang Tong</p>
+  <p>🔻<a href="https://arxiv.org/pdf/2410.02296">[arXiv]</a>
+
+  <p><b>Provably Extending PageRank-based Local Clustering Algorithm to Weighted Directed Graphs with Self-Loops and to Hypergraphs</b></p>
+  <p>🔻Zihao Li, <b>Dongqi Fu</b>, Hengyu Liu, Jingrui He</p>
+  <p>🔻<a href="https://arxiv.org/pdf/2412.03008">[arXiv]</a>
+
+  <p><b>Hypergraphs as Weighted Directed Self-Looped Graphs: Spectral Properties, Clustering, Cheeger Inequality</b></p>
+  <p>🔻Zihao Li, <b>Dongqi Fu</b>, Hengyu Liu, Jingrui He</p>
+  <p>🔻<a href="https://arxiv.org/pdf/2411.03331">[arXiv]</a>
 </details>
+-->
