@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /assets/pdf/
+title: Publications
 description:
 nav: true
 nav_order: 1
@@ -16,14 +17,14 @@ nav_order: 1
 -->
   
 <details open>
-  <summary>Published</summary>
+  <summary><b>Published</b> (* denotes Equal Contribution)</summary>
   <p><b>24. Learning Graph Quantized Tokenizers for Transformers</b></p>
-  <p>🔻Limei Wang*, Kaveh Hassani*, Si Zhang, <b>Dongqi Fu</b>, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long (*Equal Contribution)</p>
+  <p>🔻Limei Wang*, Kaveh Hassani*, Si Zhang, <b>Dongqi Fu</b>, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long</p>
   <p>🔻<b>ICLR 2025</b></p>
   <p>🔻[To Appear] </p>
 
   <p><b>23. Temporal Heterogeneous Graph Generation with Privacy, Utility, and Efficiency</b></p>
-  <p>🔻Xinyu He*, <b>Dongqi Fu*</b>, Hanghang Tong, Ross Maciejewski, Jingrui He (*Equal Contribution)</p>
+  <p>🔻Xinyu He*, <b>Dongqi Fu*</b>, Hanghang Tong, Ross Maciejewski, Jingrui He</p>
   <p>🔻<b>ICLR 2025</b></p>
   <p>🔻[To Appear] </p>
 
@@ -38,12 +39,12 @@ nav_order: 1
   <p>🔻[To Appear] </p>
   
   <p><b>20. Temporal Graph Neural Tangent Kernel with Graphon-Guaranteed</b></p>
-  <p>🔻Katherine Tieu*, <b>Dongqi Fu*</b>, Yada Zhu, Hendrik Hamann, Jingrui He (*Equal Contribution)</p>
+  <p>🔻Katherine Tieu*, <b>Dongqi Fu*</b>, Yada Zhu, Hendrik Hamann, Jingrui He</p>
   <p>🔻<b>NeurIPS 2024</b></p>
   <p>🔻<a href="https://openreview.net/pdf?id=266nH7kLSV">[Paper]</a> <a href="https://github.com/kthrn22/TempGNTK">[Code]</a></p>
 
   <p><b>19. PageRank Bandits for Link Prediction</b></p>
-  <p>🔻Yikun Ban*, Jiaru Zou*, Zihao Li, Yunzhe Qi, <b>Dongqi Fu</b>, Jian Kang, Hanghang Tong, Jingrui He (*Equal Contribution)</p>
+  <p>🔻Yikun Ban*, Jiaru Zou*, Zihao Li, Yunzhe Qi, <b>Dongqi Fu</b>, Jian Kang, Hanghang Tong, Jingrui He</p>
   <p>🔻<b>NeurIPS 2024</b></p>
   <p>🔻<a href="https://openreview.net/pdf?id=VSz9na5Jtl">[Paper]</a> <a href="https://github.com/jiaruzouu/PRB">[Code]</a></p>
 
@@ -53,7 +54,7 @@ nav_order: 1
   <p>🔻<a href="https://openreview.net/pdf?id=Kl13lipxTW">[Paper]</a> <a href="https://github.com/xiaolin-cs/BackTime">[Code]</a></p>
 
   <p><b>17. DrGNN: Deep Residual Graph Neural Network with Contrastive Learning</b></p>
-  <p>🔻Lecheng Zheng*, <b>Dongqi Fu*</b>, Ross Maciejewski, Jingrui He (*Equal Contribution)</p>
+  <p>🔻Lecheng Zheng*, <b>Dongqi Fu*</b>, Ross Maciejewski, Jingrui He</p>
   <p>🔻<b>TMLR</b>, October 2024</p>
   <p>🔻<a href="https://openreview.net/pdf?id=frb6sLbACS">[Paper]</a> <a href="https://github.com/zhenglecheng/DrGNN">[Code]</a></p>
   
@@ -73,7 +74,7 @@ nav_order: 1
   <p>🔻<a href="https://dl.acm.org/doi/pdf/10.1145/3583780.3616007?casa_token=hRzfvZ6LFU8AAAAA:qzcokEzmjVfCTxmd435ynKKH-_Ttt6LcTtPQ4J55B-OCvQGBeNhu_XYZHIcEXkxPL4-hnB0nACOM">[Paper]</a></p>
   
   <p><b>13. Privacy-Preserving Graph Machine Learning from Data to Computation: A Survey</b></p>
-  <p>🔻<b>Dongqi Fu*</b>, Wenxuan Bao*, Ross Maciejewski, Hanghang Tong, Jingrui He (*Equal Contribution)</p>
+  <p>🔻<b>Dongqi Fu*</b>, Wenxuan Bao*, Ross Maciejewski, Hanghang Tong, Jingrui He</p>
   <p>🔻<b>SIGKDD Explorations</b>, June 2023</p>
   <p>🔻<a href="https://dl.acm.org/doi/pdf/10.1145/3606274.3606280">[Paper]</a></p>
   
@@ -83,7 +84,7 @@ nav_order: 1
   <p>🔻<a href="https://dongqifu.github.io/assets/pdf/F-SEGA.pdf">[Paper]</a> <a href="https://github.com/DongqiFu/F-SEGA/blob/main/slides/WWW'23_F_SEGA_Presentation_Slides.pdf">[Slides]</a> <a href="https://github.com/DongqiFu/F-SEGA/tree/main/code">[Code]</a></p>
   
   <p><b>11. Everything Evolves in Personalized PageRank</b></p>
-  <p>🔻Zihao Li*, <b>Dongqi Fu*</b>, Jingrui He (*Equal Contribution)</p>
+  <p>🔻Zihao Li*, <b>Dongqi Fu*</b>, Jingrui He</p>
   <p>🔻<b>WWW 2023</b></p>
   <p>🔻<a href="https://dongqifu.github.io/assets/pdf/EvePPR.pdf">[Paper]</a> <a href="https://github.com/DongqiFu/EvePPR/blob/main/slides/WWW'23_EvePPR_Presentation_Slides.pdf">[Slides]</a> <a href="https://github.com/DongqiFu/EvePPR/tree/main/code">[Code]</a></p>
   
@@ -103,7 +104,7 @@ nav_order: 1
   <p>🔻<a href="https://dongqifu.github.io/assets/pdf/fdata-05-1062637.pdf">[Paper]</a></p>
   
   <p><b>7. MentorGNN: Deriving Curriculum for Pre-Training GNNs</b></p>
-  <p>🔻Dawei Zhou*, Lecheng Zheng*, <b>Dongqi Fu</b>, Jiawei Han, Jingrui He (*Equal Contribution)</p>
+  <p>🔻Dawei Zhou*, Lecheng Zheng*, <b>Dongqi Fu</b>, Jiawei Han, Jingrui He</p>
   <p>🔻<b>CIKM 2022</b></p>
   <p>🔻<a href="https://arxiv.org/pdf/2208.09905.pdf">[Paper]</a> <a href="https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3511808.3557393&file=CIKM+Presentation.mp4">[Video]</a> <a href="https://github.com/Leo02016/MentorGNN">[Code]</a></p>
   
@@ -118,7 +119,7 @@ nav_order: 1
   <p>🔻<a href="https://arxiv.org/pdf/2207.00048.pdf">[Paper]</a> <a href="https://dongqifu.github.io/assets/pdf/PETS4HASE'22_Presentation_Slides.pdf">[Slides]</a></p>
   
   <p><b>4. Meta-Learned Metrics over Multi-Evolution Temporal Graphs</b></p>
-  <p>🔻<b>Dongqi Fu*</b>, Liri Fang*, Ross Maciejewski, Vetle I Torvik, Jingrui He (*Equal Contribution)</p>
+  <p>🔻<b>Dongqi Fu*</b>, Liri Fang*, Ross Maciejewski, Vetle I Torvik, Jingrui He</p>
   <p>🔻<b>KDD 2022</b></p>
   <p>🔻<a href="https://dongqifu.github.io/assets/pdf/Temp-GFSM.pdf">[Paper]</a> <a href="https://github.com/DongqiFu/Temp-GFSM/blob/main/Slides/KDD'22_Temp-GFSM_Presentation_Slides.pdf">[Slides]</a> <a href="https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3534678.3539313&file=KDD22-fp0916.mp4">[Video]</a> <a href="https://github.com/LiriFang/Temp-GFSM">[Code]</a></p>
   
@@ -128,7 +129,7 @@ nav_order: 1
   <p>🔻<a href="https://dongqifu.github.io/assets/pdf/SDG.pdf">[Paper]</a> <a href="https://github.com/DongqiFu/SDG/blob/main/slides/SIGIR'21_SDG_Presentation_Slides.pdf">[Slides]</a> <a href="https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3404835.3463059&file=sp1515_prerecorded_video.mp4">[Video]</a> <a href="https://github.com/DongqiFu/SDG">[Code]</a></p>
   
   <p><b>2. A View-Adversarial Framework for Multi-View Network Embedding</b></p>
-  <p>🔻<b>Dongqi Fu*</b>, Zhe Xu*, Bo Li, Hanghang Tong, Jingrui He (*Equal Contribution)</p>
+  <p>🔻<b>Dongqi Fu*</b>, Zhe Xu*, Bo Li, Hanghang Tong, Jingrui He</p>
   <p>🔻<b>CIKM 2020</b></p>
   <p>🔻<a href="https://dongqifu.github.io/assets/pdf/VANE.pdf">[Paper]</a> <a href="https://github.com/DongqiFu/VANE/blob/master/slides/CIKM'20_VANE_Presentation_Slides.pdf">[Slides]</a> <a href="https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3340531.3412127&file=3340531.3412127.mp4&download=true">[Video]</a> <a href="https://github.com/pricexu/VANE">[Code]</a></p>
   
@@ -141,13 +142,13 @@ nav_order: 1
 
 <!--
 <details close>
-  <summary>Pre-print</summary>
+  <summary><b>Pre-print</b> (* denotes Equal Contribution)</summary>
   <p><b>Language Models are Graph Learners</b></p>
   <p>🔻Zhe Xu, Kaveh Hassani, Si Zhang, Hanqing Zeng, Michihiro Yasunaga, Limei Wang, <b>Dongqi Fu</b>, Ning Yao, Bo Long, Hanghang Tong</p>
   <p>🔻<a href="https://arxiv.org/pdf/2410.02296">[arXiv]</a>
   
   <p><b>Parametric Graph Representations in the Era of Foundation Models: A Survey and Position</b></p>
-  <p>🔻<b>Dongqi Fu*</b>, Liri Fang*, Zihao Li*, Hanghang Tong, Vetle I Torvik, Jingrui He (*Equal Contribution)</p>
+  <p>🔻<b>Dongqi Fu*</b>, Liri Fang*, Zihao Li*, Hanghang Tong, Vetle I Torvik, Jingrui He</p>
   <p>🔻<a href="https://arxiv.org/pdf/2410.12126?">[arXiv]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/pyg-ssl">[Code]</a></p>
   
   <p><b>Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?</b></p>
@@ -156,7 +157,7 @@ nav_order: 1
   <p>🔻<a href="https://arxiv.org/pdf/2412.21151">[arXiv]</a>
 
   <p><b>PyG-SSL: A Graph Self-Supervised Learning Toolkit</b></p>
-  <p>🔻Lecheng Zheng*, Baoyu Jing*, Zihao Li*, Zhichen Zeng, Tianxin Wei, Mengting Ai, Xinrui He, Lihui Liu, <b>Dongqi Fu</b>, Jiaxuan You, Hanghang Tong, Jingrui He (*Equal Contribution)</p>
+  <p>🔻Lecheng Zheng*, Baoyu Jing*, Zihao Li*, Zhichen Zeng, Tianxin Wei, Mengting Ai, Xinrui He, Lihui Liu, <b>Dongqi Fu</b>, Jiaxuan You, Hanghang Tong, Jingrui He</p>
   <p>🔻<a href="https://arxiv.org/pdf/2412.21151">[arXiv]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/pyg-ssl">[Code]</a></p>
   
   <p><b>Provably Extending PageRank-based Local Clustering Algorithm to Weighted Directed Graphs with Self-Loops and to Hypergraphs</b></p>
