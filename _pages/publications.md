@@ -17,7 +17,7 @@ nav_order: 1
 -->
   
 <details open>
-  <summary><h3>Published</h3></summary>
+  <summary><h4>Published</h4></summary>
   <p>24. <b>Learning Graph Quantized Tokenizers for Transformers</b></p>
   <p>🔻Limei Wang*, Kaveh Hassani*, Si Zhang, <b>Dongqi Fu</b>, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long (*Equal Contribution)</p>
   <p>🔻<b>ICLR 2025</b></p>
@@ -142,24 +142,24 @@ nav_order: 1
 
 <!--
 <details close>
-  <summary><h3>Pre-print</h3></summary>
+  <summary><h4>Pre-print</h4></summary>
+  <p><b>Language Models are Graph Learners</b></p>
+  <p>🔻Zhe Xu, Kaveh Hassani, Si Zhang, Hanqing Zeng, Michihiro Yasunaga, Limei Wang, <b>Dongqi Fu</b>, Ning Yao, Bo Long, Hanghang Tong</p>
+  <p>🔻<a href="https://arxiv.org/pdf/2410.02296">[arXiv]</a>
+  
   <p><b>Parametric Graph Representations in the Era of Foundation Models: A Survey and Position</b></p>
   <p>🔻<b>Dongqi Fu*</b>, Liri Fang*, Zihao Li*, Hanghang Tong, Vetle I Torvik, Jingrui He (*Equal Contribution)</p>
   <p>🔻<a href="https://arxiv.org/pdf/2410.12126?">[arXiv]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/pyg-ssl">[Code]</a></p>
   
-  <p><b>PyG-SSL: A Graph Self-Supervised Learning Toolkit</b></p>
-  <p>🔻Lecheng Zheng*, Baoyu Jing*, Zihao Li*, Zhichen Zeng, Tianxin Wei, Mengting Ai, Xinrui He, Lihui Liu, <b>Dongqi Fu</b>, Jiaxuan You, Hanghang Tong, Jingrui He (*Equal Contribution)</p>
-  <p>🔻<a href="https://arxiv.org/pdf/2412.21151">[arXiv]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/pyg-ssl">[Code]</a></p>
-
   <p><b>Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?</b></p>
   <p>🔻Zihao Li, Lecheng Zheng, Bowen Jin, <b>Dongqi Fu</b>, Baoyu Jing, Yikun Ban, Jingrui He, Jiawei Han</p>
   <p>🔻<b>arXiv</b></p>
   <p>🔻<a href="https://arxiv.org/pdf/2412.21151">[arXiv]</a>
 
-  <p><b>Language Models are Graph Learners</b></p>
-  <p>🔻Zhe Xu, Kaveh Hassani, Si Zhang, Hanqing Zeng, Michihiro Yasunaga, Limei Wang, <b>Dongqi Fu</b>, Ning Yao, Bo Long, Hanghang Tong</p>
-  <p>🔻<a href="https://arxiv.org/pdf/2410.02296">[arXiv]</a>
-
+  <p><b>PyG-SSL: A Graph Self-Supervised Learning Toolkit</b></p>
+  <p>🔻Lecheng Zheng*, Baoyu Jing*, Zihao Li*, Zhichen Zeng, Tianxin Wei, Mengting Ai, Xinrui He, Lihui Liu, <b>Dongqi Fu</b>, Jiaxuan You, Hanghang Tong, Jingrui He (*Equal Contribution)</p>
+  <p>🔻<a href="https://arxiv.org/pdf/2412.21151">[arXiv]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/pyg-ssl">[Code]</a></p>
+  
   <p><b>Provably Extending PageRank-based Local Clustering Algorithm to Weighted Directed Graphs with Self-Loops and to Hypergraphs</b></p>
   <p>🔻Zihao Li, <b>Dongqi Fu</b>, Hengyu Liu, Jingrui He</p>
   <p>🔻<a href="https://arxiv.org/pdf/2412.03008">[arXiv]</a>
@@ -167,5 +167,6 @@ nav_order: 1
   <p><b>Hypergraphs as Weighted Directed Self-Looped Graphs: Spectral Properties, Clustering, Cheeger Inequality</b></p>
   <p>🔻Zihao Li, <b>Dongqi Fu</b>, Hengyu Liu, Jingrui He</p>
   <p>🔻<a href="https://arxiv.org/pdf/2411.03331">[arXiv]</a>
+
 </details>
 -->
