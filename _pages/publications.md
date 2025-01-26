@@ -17,7 +17,7 @@ nav_order: 1
 -->
   
 <details open>
-  <summary><h4>Published</h4></summary>
+  <summary>Published</summary>
   <p>24. <b>Learning Graph Quantized Tokenizers for Transformers</b></p>
   <p>🔻Limei Wang*, Kaveh Hassani*, Si Zhang, <b>Dongqi Fu</b>, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long (*Equal Contribution)</p>
   <p>🔻<b>ICLR 2025</b></p>
@@ -142,7 +142,7 @@ nav_order: 1
 
 <!--
 <details close>
-  <summary><h4>Pre-print</h4></summary>
+  <summary>Pre-print</summary>
   <p><b>Language Models are Graph Learners</b></p>
   <p>🔻Zhe Xu, Kaveh Hassani, Si Zhang, Hanqing Zeng, Michihiro Yasunaga, Limei Wang, <b>Dongqi Fu</b>, Ning Yao, Bo Long, Hanghang Tong</p>
   <p>🔻<a href="https://arxiv.org/pdf/2410.02296">[arXiv]</a>
