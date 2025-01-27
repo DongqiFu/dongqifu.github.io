@@ -17,7 +17,7 @@ nav_order: 1
 -->
   
 <details open>
-  <summary><h6><b>Published</b> (* denotes Equal Contribution)</h6></summary>
+  <summary><b>Published</b> (* denotes Equal Contribution)</summary>
   <p></p>
   <p><b>24. Learning Graph Quantized Tokenizers for Transformers</b></p>
   <p>🔻Limei Wang*, Kaveh Hassani*, Si Zhang, <b>Dongqi Fu</b>, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long</p>
