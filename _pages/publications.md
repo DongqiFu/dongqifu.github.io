@@ -51,7 +51,7 @@ nav_order: 1
 
   <p><b>18. BackTime: Backdoor Attacks on Multivariate Time Series Forecasting</b></p>
   <p>🔻Xiao Lin, Zhining Liu, <b>Dongqi Fu</b>, Ruizhong Qiu, Hanghang Tong</p>
-  <p>🔻<b>NeurIPS 2024</b> <span style="color:red;">(Spotlight, Top 2.08% Over 15,671 Submissions)</span></p>
+  <p>🔻<b>NeurIPS 2024</b> (<span style="color:red;">Spotlight, Top 2.08% Over 15,671 Submissions</span>)</p>
   <p>🔻<a href="https://openreview.net/pdf?id=Kl13lipxTW">[Paper]</a> <a href="https://github.com/xiaolin-cs/BackTime">[Code]</a></p>
 
   <p><b>17. DrGNN: Deep Residual Graph Neural Network with Contrastive Learning</b></p>
