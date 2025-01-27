@@ -116,7 +116,7 @@ nav_order: 1
   
   <p><b>5. Privacy-preserving Graph Analytics: Secure Generation and Federated Learning</b></p>
   <p>🔻<b>Dongqi Fu</b>, Jingrui He, Hanghang Tong, Ross Maciejewski</p>
-  <p>🔻<b>DHS CAOE Workshop on Privacy Enhancing Technologies for the Homeland Security Enterprise</b></p>
+  <p>🔻<b>DHS CAOE Workshop on Privacy Enhancing Technologies for the Homeland Security Enterprise 2022</b></p>
   <p>🔻<a href="https://arxiv.org/pdf/2207.00048.pdf">[Paper]</a> <a href="https://dongqifu.github.io/assets/pdf/PETS4HASE'22_Presentation_Slides.pdf">[Slides]</a></p>
   
   <p><b>4. Meta-Learned Metrics over Multi-Evolution Temporal Graphs</b></p>
