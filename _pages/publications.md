@@ -26,8 +26,8 @@ nav_order: 1
 
   <p><b>23. Temporal Heterogeneous Graph Generation with Privacy, Utility, and Efficiency</b></p>
   <p>🔻Xinyu He*, <b>Dongqi Fu*</b>, Hanghang Tong, Ross Maciejewski, Jingrui He</p>
-  <p>🔻<b>ICLR 2025</b></p>
-  <p>🔻[To Appear] (<span style="color:red;">Spotlight, 3.20% of 11,672 Submissions</span>) </p>
+  <p>🔻<b>ICLR 2025</b> (<span style="color:red;">Spotlight, 3.20% of 11,672 Submissions</span>) </p>
+  <p>🔻[To Appear] </p>
 
   <p><b>22. Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem</b></p>
   <p>🔻Katherine Tieu, <b>Dongqi Fu</b>, Jun Wu, Jingrui He </p>
