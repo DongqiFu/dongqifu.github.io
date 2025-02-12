@@ -27,7 +27,7 @@ nav_order: 1
   <p><b>23. Temporal Heterogeneous Graph Generation with Privacy, Utility, and Efficiency</b></p>
   <p>🔻Xinyu He*, <b>Dongqi Fu*</b>, Hanghang Tong, Ross Maciejewski, Jingrui He</p>
   <p>🔻<b>ICLR 2025</b></p>
-  <p>🔻[To Appear] (<span style="color:red;">Spotlight, Top 5.10% Over 11,672 Submissions</span>) </p>
+  <p>🔻[To Appear] (<span style="color:red;">Spotlight, 3.20% of 11,672 Submissions</span>) </p>
 
   <p><b>22. Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem</b></p>
   <p>🔻Katherine Tieu, <b>Dongqi Fu</b>, Jun Wu, Jingrui He </p>
@@ -51,7 +51,7 @@ nav_order: 1
 
   <p><b>18. BackTime: Backdoor Attacks on Multivariate Time Series Forecasting</b></p>
   <p>🔻Xiao Lin, Zhining Liu, <b>Dongqi Fu</b>, Ruizhong Qiu, Hanghang Tong</p>
-  <p>🔻<b>NeurIPS 2024</b> (<span style="color:red;">Spotlight, Top 2.08% Over 15,671 Submissions</span>)</p>
+  <p>🔻<b>NeurIPS 2024</b> (<span style="color:red;">Spotlight, 2.08% of 15,671 Submissions</span>)</p>
   <p>🔻<a href="https://openreview.net/pdf?id=Kl13lipxTW">[Paper]</a> <a href="https://github.com/xiaolin-cs/BackTime">[Code]</a></p>
 
   <p><b>17. DrGNN: Deep Residual Graph Neural Network with Contrastive Learning</b></p>
