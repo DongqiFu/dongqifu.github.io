@@ -15,7 +15,17 @@ nav_order: 1
   <p style="font-style: normal;">Graph AI Development</p>
 </div>
 -->
-  
+
+
+<details close>
+  <summary><b>Preprint</b> (* denotes Equal Contribution)</summary>
+  <p><b>What Do LLMs Need to Understand Graphs: A Survey of Parametric Representation of Graphs</b></p>
+  <p>🔻<b>Dongqi Fu*</b>, Liri Fang*, Zihao Li*, Hanghang Tong, Vetle I Torvik, Jingrui He</p>
+  <p>🔻<a href="https://dongqifu.github.io/assets/pdf/Graph_Law_Survey.pdf">[Paper]</a> </p>
+
+</details>
+
+
 <details open>
   <summary><b>Published</b> (* denotes Equal Contribution)</summary>
   <p></p>
@@ -140,34 +150,3 @@ nav_order: 1
   <p>🔻<a href="https://dongqifu.github.io/assets/pdf/L-MEGA.pdf">[Paper]</a> <a href="https://github.com/DongqiFu/L-MEGA/blob/master/slides/KDD'20_L-MEGA_Slides.pdf">[Slides]</a> <a href="https://www.youtube.com/watch?v=2Z-SS1IchGc&feature=emb_title">[Video]</a> <a href="https://github.com/DongqiFu/L-MEGA">[Code]</a></p>
 
 </details>
-
-<!--
-<details close>
-  <summary><b>Pre-print</b> (* denotes Equal Contribution)</summary>
-  <p><b>Language Models are Graph Learners</b></p>
-  <p>🔻Zhe Xu, Kaveh Hassani, Si Zhang, Hanqing Zeng, Michihiro Yasunaga, Limei Wang, <b>Dongqi Fu</b>, Ning Yao, Bo Long, Hanghang Tong</p>
-  <p>🔻<a href="https://arxiv.org/pdf/2410.02296">[arXiv]</a>
-  
-  <p><b>Parametric Graph Representations in the Era of Foundation Models: A Survey and Position</b></p>
-  <p>🔻<b>Dongqi Fu*</b>, Liri Fang*, Zihao Li*, Hanghang Tong, Vetle I Torvik, Jingrui He</p>
-  <p>🔻<a href="https://arxiv.org/pdf/2410.12126?">[arXiv]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/pyg-ssl">[Code]</a></p>
-  
-  <p><b>Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?</b></p>
-  <p>🔻Zihao Li, Lecheng Zheng, Bowen Jin, <b>Dongqi Fu</b>, Baoyu Jing, Yikun Ban, Jingrui He, Jiawei Han</p>
-  <p>🔻<b>arXiv</b></p>
-  <p>🔻<a href="https://arxiv.org/pdf/2412.21151">[arXiv]</a>
-
-  <p><b>PyG-SSL: A Graph Self-Supervised Learning Toolkit</b></p>
-  <p>🔻Lecheng Zheng*, Baoyu Jing*, Zihao Li*, Zhichen Zeng, Tianxin Wei, Mengting Ai, Xinrui He, Lihui Liu, <b>Dongqi Fu</b>, Jiaxuan You, Hanghang Tong, Jingrui He</p>
-  <p>🔻<a href="https://arxiv.org/pdf/2412.21151">[arXiv]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/pyg-ssl">[Code]</a></p>
-  
-  <p><b>Provably Extending PageRank-based Local Clustering Algorithm to Weighted Directed Graphs with Self-Loops and to Hypergraphs</b></p>
-  <p>🔻Zihao Li, <b>Dongqi Fu</b>, Hengyu Liu, Jingrui He</p>
-  <p>🔻<a href="https://arxiv.org/pdf/2412.03008">[arXiv]</a>
-
-  <p><b>Hypergraphs as Weighted Directed Self-Looped Graphs: Spectral Properties, Clustering, Cheeger Inequality</b></p>
-  <p>🔻Zihao Li, <b>Dongqi Fu</b>, Hengyu Liu, Jingrui He</p>
-  <p>🔻<a href="https://arxiv.org/pdf/2411.03331">[arXiv]</a>
-
-</details>
--->
