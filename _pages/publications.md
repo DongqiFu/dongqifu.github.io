@@ -16,7 +16,7 @@ nav_order: 1
 </div>
 -->
 
-==========================================================
+===========================================
 
 <details close>
   <summary><b>Preprint</b> (* denotes Equal Contribution)</summary>
@@ -24,10 +24,9 @@ nav_order: 1
   <p><b>What Do LLMs Need to Understand Graphs: A Survey of Parametric Representation of Graphs</b></p>
   <p>🔻<b>Dongqi Fu*</b>, Liri Fang*, Zihao Li*, Hanghang Tong, Vetle I Torvik, Jingrui He</p>
   <p>🔻<a href="https://dongqifu.github.io/assets/pdf/Graph_Law_Survey.pdf">[Paper]</a> </p>
-
 </details>
-
-==========================================================
+<p></p>
+===========================================
 
 <details open>
   <summary><b>Published</b> (* denotes Equal Contribution)</summary>
