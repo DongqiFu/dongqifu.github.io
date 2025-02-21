@@ -39,7 +39,7 @@ nav_order: 1
   <p><b>23. Temporal Heterogeneous Graph Generation with Privacy, Utility, and Efficiency</b></p>
   <p>🔻Xinyu He*, <b>Dongqi Fu*</b>, Hanghang Tong, Ross Maciejewski, Jingrui He</p>
   <p>🔻<b>ICLR 2025</b> (<span style="color:red;">Spotlight, 3.20% of 11,672 Submissions</span>) </p>
-  <p>🔻[To Appear] </p>
+  <p>🔻[To Appear] <a href="https://shenyanghuang.github.io/rg.html">[Invited Talk at TGL on 04/17/2025]</a> </p>
 
   <p><b>22. Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem</b></p>
   <p>🔻Katherine Tieu, <b>Dongqi Fu</b>, Jun Wu, Jingrui He </p>
@@ -54,7 +54,7 @@ nav_order: 1
   <p><b>20. Temporal Graph Neural Tangent Kernel with Graphon-Guaranteed</b></p>
   <p>🔻Katherine Tieu*, <b>Dongqi Fu*</b>, Yada Zhu, Hendrik Hamann, Jingrui He</p>
   <p>🔻<b>NeurIPS 2024</b></p>
-  <p>🔻<a href="https://openreview.net/pdf?id=266nH7kLSV">[Paper]</a> <a href="https://github.com/kthrn22/TempGNTK">[Code]</a></p>
+  <p>🔻<a href="https://openreview.net/pdf?id=266nH7kLSV">[Paper]</a> <a href="https://github.com/kthrn22/TempGNTK">[Code]</a> <a href="https://shenyanghuang.github.io/rg.html">[Invited Talk at TGL on 02/13/2025]</a></p> 
 
   <p><b>19. PageRank Bandits for Link Prediction</b></p>
   <p>🔻Yikun Ban*, Jiaru Zou*, Zihao Li, Yunzhe Qi, <b>Dongqi Fu</b>, Jian Kang, Hanghang Tong, Jingrui He</p>
