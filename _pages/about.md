@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Scientist from Ranking and Foundational AI (RFAI) at Meta, and I work on Geometric Deep Learning and Network Science for their broad applications.
+I am a Research Scientist from Ranking and Foundational AI (RFAI) at Meta, and I work on Geometric Deep Learning, Sequence Modeling, and Probabilistic Graphical Models for their broad applications.
 
 ### 🏫 **Education**
 [**University of Illinois Urbana-Champaign (UIUC)**](https://illinois.edu/), 2019 - 2024
