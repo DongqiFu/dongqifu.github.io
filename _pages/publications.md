@@ -32,12 +32,12 @@ nav_order: 1
   <summary><b>Published</b> (* denotes Equal Contribution)</summary>
   <p></p>
   <p><b>24. Learning Graph Quantized Tokenizers for Transformers</b></p>
-  <p>🔻Limei Wang*, Kaveh Hassani*, Si Zhang, <b>Dongqi Fu</b>, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long</p>
+  <p>🔻Limei Wang*, Kaveh Hassani*, Si Zhang, <b><u>Dongqi Fu</u></b>, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long</p>
   <p>🔻<b>ICLR 2025</b></p>
   <p>🔻[To Appear] </p>
 
   <p><b>23. Temporal Heterogeneous Graph Generation with Privacy, Utility, and Efficiency</b></p>
-  <p>🔻Xinyu He*, <b>Dongqi Fu*</b>, Hanghang Tong, Ross Maciejewski, Jingrui He</p>
+  <p>🔻Xinyu He*, <u><b>Dongqi Fu*</b></u>, Hanghang Tong, Ross Maciejewski, Jingrui He</p>
   <p>🔻<b>ICLR 2025</b> (<span style="color:red;">Spotlight, 3.20% of 11,672 Submissions</span>) </p>
   <p>🔻[To Appear] <a href="https://shenyanghuang.github.io/rg.html">[Invited Talk at TGL on 04/17/2025]</a> </p>
 
