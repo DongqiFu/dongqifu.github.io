@@ -47,7 +47,7 @@ nav_order: 1
   <p>🔻[To Appear] </p>
 
   <p><b>21. APEX²: Adaptive and Extreme Summarization for Personalized Knowledge Graphs</b></p>
-  <p>🔻Zihao Li, <b>Dongqi Fu</b>, Mengting Ai, Jingrui He </p>
+  <p>🔻Zihao Li, <b><u>Dongqi Fu</u></b>, Mengting Ai, Jingrui He </p>
   <p>🔻<b>KDD 2025</b></p>
   <p>🔻[To Appear] </p>
   
