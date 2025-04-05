@@ -22,7 +22,7 @@ nav_order: 1
   <summary><b>Preprint</b> (* denotes Equal Contribution)</summary>
   <p></p>
   <p><b>What Do LLMs Need to Understand Graphs: A Survey of Parametric Representation of Graphs</b></p>
-  <p>🔻<b>Dongqi Fu*</b>, Liri Fang*, Zihao Li*, Hanghang Tong, Vetle I Torvik, Jingrui He</p>
+  <p>🔻<b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Liri Fang*, Zihao Li*, Hanghang Tong, Vetle I Torvik, Jingrui He</p>
   <p>🔻<a href="https://dongqifu.github.io/assets/pdf/Graph_Law_Survey.pdf">[Paper]</a> </p>
 </details>
 <p></p>
@@ -32,9 +32,9 @@ nav_order: 1
   <summary><b>Published</b> (* denotes Equal Contribution)</summary>
   <p></p>
   <p><b>24. Learning Graph Quantized Tokenizers for Transformers</b></p>
-  <p>🔻Limei Wang*, Kaveh Hassani*, Si Zhang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long</p>
-  <p>🔻<b>ICLR 2025</b></p>
-  <p>🔻[To Appear] </p>
+  <p><span style="font-size: 0.8em;">🔻</span>Limei Wang*, Kaveh Hassani*, Si Zhang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long</p>
+  <p><span style="font-size: 0.5em;">🔻</span><b>ICLR 2025</b></p>
+  <p><span style="font-size: 0.3em;">🔻</span>[To Appear] </p>
 
   <p><b>23. Temporal Heterogeneous Graph Generation with Privacy, Utility, and Efficiency</b></p>
   <p>🔻Xinyu He*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Hanghang Tong, Ross Maciejewski, Jingrui He</p>
