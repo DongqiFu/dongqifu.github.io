@@ -40,7 +40,7 @@ nav_order: 1
 
   <p><b>23. Temporal Heterogeneous Graph Generation with Privacy, Utility, and Efficiency</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xinyu He*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Hanghang Tong, Ross Maciejewski, Jingrui He</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2025</b> (<span style="color:red;">🏆Spotlight, 3.20% of 11,672 Submissions</span>) </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2025</b> (<span style="color:red;">🏆 <b>Spotlight</b>, 3.20% of 11,672 Submissions</span>) </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>[To Appear] <a href="https://shenyanghuang.github.io/rg.html">[Invited Talk at TGL on 04/17/2025]</a> </p>
 
 <p></p>
@@ -75,7 +75,7 @@ nav_order: 1
 
   <p><b>18. BackTime: Backdoor Attacks on Multivariate Time Series Forecasting</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xiao Lin, Zhining Liu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Ruizhong Qiu, Hanghang Tong</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2024</b> (<span style="color:red;">🏆Spotlight, 2.08% of 15,671 Submissions</span>)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2024</b> (<span style="color:red;">🏆 <b>Spotlight</b>, 2.08% of 15,671 Submissions</span>)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/pdf?id=Kl13lipxTW">[Paper]</a> <a href="https://github.com/xiaolin-cs/BackTime">[Code]</a></p>
 
 <p></p>
