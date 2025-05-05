@@ -16,6 +16,23 @@ nav_order: 1
 </div>
 -->
 
+<style>
+.paper-block {
+  background-color: #f9f9f9;      /* 浅灰色背景 */
+  padding: 12px 16px;             /* 内边距 */
+  border-radius: 8px;             /* 圆角边框 */
+  margin-bottom: 20px;            /* 间距分隔每篇paper */
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05); /* 轻微阴影 */
+}
+
+@media (max-width: 768px) {
+  .paper-block {
+    padding: 10px;
+    margin-bottom: 16px;
+  }
+}
+</style>
+
 ===========================================
 
 <details close>
@@ -31,12 +48,15 @@ nav_order: 1
 <details open>
   <summary><b>Published</b> (* denotes Equal Contribution)</summary>
   <p></p>
+
+  <div class="paper-block">
   <p><b>24. Learning Graph Quantized Tokenizers for Transformers</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Limei Wang*, Kaveh Hassani*, Si Zhang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>[To Appear] </p>
+  </div>
 
-<p></p>
+  <p></p>
 
   <p><b>23. Temporal Heterogeneous Graph Generation with Privacy, Utility, and Efficiency</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xinyu He*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Hanghang Tong, Ross Maciejewski, Jingrui He</p>
