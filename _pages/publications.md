@@ -16,13 +16,23 @@ nav_order: 1
 </div>
 -->
 
-<style>
+<!---
 .paper-block {
   background-color: #f9f9f9;      /* 浅灰色背景 */
   padding: 12px 16px;             /* 内边距 */
   border-radius: 8px;             /* 圆角边框 */
   margin-bottom: 16px;            /* 间距分隔每篇paper */
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05); /* 轻微阴影 */
+}
+-->
+
+<style>
+.paper-block {
+  background-color: #f9f9f9;
+  padding: 12px 16px;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
 }
 
 @media (max-width: 768px) {
