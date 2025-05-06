@@ -31,7 +31,7 @@ nav_order: 1
   background-color: #f9f9f9;
   padding: 12px 16px;
   border-radius: 8px;
-  margin-bottom: 16px;
+  margin-bottom: 12px;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
 }
 
