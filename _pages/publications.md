@@ -29,9 +29,9 @@ nav_order: 1
 <style>
 .paper-block {
   background-color: #f9f9f9;
-  padding: 12px 16px;
+  padding: 8px 16px;
   border-radius: 8px;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
 }
 
