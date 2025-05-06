@@ -29,7 +29,7 @@ nav_order: 1
 <style>
 .paper-block {
   background-color: #f9f9f9;
-  padding: 12px 16px;
+  padding: 12px 12px;
   border-radius: 8px;
   margin-bottom: 16px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
