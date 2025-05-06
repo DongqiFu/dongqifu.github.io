@@ -30,9 +30,9 @@ nav_order: 1
 .paper-block {
   background-color: #f9f9f9;
   padding: 12px 16px;
-  border-radius: 6px;
+  border-radius: 8px;
   margin-bottom: 16px;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
 }
 
 @media (max-width: 768px) {
