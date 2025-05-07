@@ -60,7 +60,7 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>24. Learning Graph Quantized Tokenizers for Transformers</b></p>
+  <p><b>24. Learning Graph Quantized Tokenizers</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Limei Wang*, Kaveh Hassani*, Si Zhang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>[To Appear] </p>
