@@ -170,7 +170,7 @@ nav_order: 1
   <p><b>16. Generating Fine-Grained Causality in Climate Time Series Data for Forecasting and Anomaly Detection</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yada Zhu, Hanghang Tong, Kommy Weldemariam, Onkar Bhardwaj, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2024</b> (AI4Science Workshop)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2408.04254">[Paper]</a></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2408.04254">[Paper]</a> <a href="https://github.com/DongqiFu/TacSas">[Code]</a></p>
   </div>
 
   <p></p>
