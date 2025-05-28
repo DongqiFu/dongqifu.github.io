@@ -60,6 +60,41 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
+  <p><b>29. Graph4MM: Weaving Multimodal Learning with Structural Information</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuning Ning*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Tianxin Wei, Wujiang Xu, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2025</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>28. Learnable Spatial-Temporal Positional Encoding for Link Prediction</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Katherine Tieu*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Zihao Li, Ross Maciejewski, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2025</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] <a href="https://github.com/kthrn22/L-STEP">[Code]</a></p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>27. UniMate: A Unified Model for Mechanical Metamaterial Generation, Property Prediction, and Condition Confirmation</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Wangzhi Zhan, Jianpeng Chen, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2025</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>26. Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, Lecheng Zheng, Bowen Jin, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Baoyu Jing, Yikun Ban, Jingrui He, Jiawei Han</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2025</b> (Main)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>25. Automatic Scientific Claims Verification with Pruned Evidence Graph</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Liri Fang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Vetle I. Torvik</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2025</b> (AgenticAI Workshop)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/pdf?id=cYAFwjY2bY">[Paper]</a> <a href="https://github.com/LiriFang/PrunE-code">[Code]</a></p>
+  </div>
+
+  <div class="paper-block">
   <p><b>24. Learning Graph Quantized Tokenizers</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Limei Wang*, Kaveh Hassani*, Si Zhang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2025</b></p>
