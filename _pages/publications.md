@@ -63,7 +63,7 @@ nav_order: 1
   <p><b>24. Learning Graph Quantized Tokenizers</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Limei Wang*, Kaveh Hassani*, Si Zhang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2025</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>[To Appear] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2410.13798">[Paper]</a> <a href="https://github.com/limei0307/GQT">[Code]</a></p>
   </div>
 
   <p></p>
@@ -72,7 +72,7 @@ nav_order: 1
   <p><b>23. Temporal Heterogeneous Graph Generation with Privacy, Utility, and Efficiency</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xinyu He*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Hanghang Tong, Ross Maciejewski, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2025</b> (<span style="color:red;"> 🏆 <b>Spotlight</b>, 3.20% of 11,672 Submissions </span>) </p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>[To Appear] <a href="https://shenyanghuang.github.io/rg.html">[Invited Talk at TGL on 04/17/2025]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/pdf?id=tj5xJInWty">[Paper]</a> <a href="https://github.com/xinyuu-he/THePUff">[Code]</a> <a href="https://www.youtube.com/watch?v=1V69zhdkYNE">[Invited Talk at TGL on 04/17/2025]</a> </p>
   </div>
 
   <p></p>
@@ -81,7 +81,7 @@ nav_order: 1
   <p><b>22. Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Katherine Tieu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jun Wu, Jingrui He </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>AISTATS 2025</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>[To Appear] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/forum?id=JYM9QAHMi3">[Paper]</a> <a href="https://github.com/kthrn22/OOD-Linker">[Code]</a></p>
   </div>
 
   <p></p>
@@ -90,7 +90,7 @@ nav_order: 1
   <p><b>21. APEX²: Adaptive and Extreme Summarization for Personalized Knowledge Graphs</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Mengting Ai, Jingrui He </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2025</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>[To Appear] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2412.17336">[Paper]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/APEX">[Code]</a></p>
   </div>
 
   <p></p>
@@ -99,7 +99,7 @@ nav_order: 1
   <p><b>20. Temporal Graph Neural Tangent Kernel with Graphon-Guaranteed</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Katherine Tieu*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Yada Zhu, Hendrik Hamann, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2024</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/pdf?id=266nH7kLSV">[Paper]</a> <a href="https://github.com/kthrn22/TempGNTK">[Code]</a> <a href="https://shenyanghuang.github.io/rg.html">[Invited Talk at TGL on 02/13/2025]</a></p> 
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/pdf?id=266nH7kLSV">[Paper]</a> <a href="https://github.com/kthrn22/TempGNTK">[Code]</a> <a href="https://www.youtube.com/watch?v=tlCEjwQ0_YM">[Invited Talk at TGL on 02/13/2025]</a></p> 
   </div>
 
   <p></p>
