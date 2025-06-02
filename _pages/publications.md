@@ -61,7 +61,7 @@ nav_order: 1
 
   <div class="paper-block">
   <p><b>29. Graph4MM: Weaving Multimodal Learning with Structural Information</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuning Ning*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Tianxin Wei, Wujiang Xu, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Tianxin Wei, Wujiang Xu, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] </p>
   </div>
