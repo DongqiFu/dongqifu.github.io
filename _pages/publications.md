@@ -116,7 +116,7 @@ nav_order: 1
   <p><b>22. Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Katherine Tieu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jun Wu, Jingrui He </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>AISTATS 2025</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/forum?id=JYM9QAHMi3">[Paper]</a> <a href="https://github.com/kthrn22/OOD-Linker">[Code]</a></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2505.24178">[Paper]</a> <a href="https://github.com/kthrn22/OOD-Linker">[Code]</a></p>
   </div>
 
   <p></p>
