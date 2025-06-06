@@ -63,7 +63,7 @@ nav_order: 1
   <p><b>29. Graph4MM: Weaving Multimodal Learning with Structural Information</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Tianxin Wei, Wujiang Xu, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2025</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] <a href="https://github.com/YennNing/Graph4MM">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
@@ -77,14 +77,14 @@ nav_order: 1
   <p><b>27. UniMate: A Unified Model for Mechanical Metamaterial Generation, Property Prediction, and Condition Confirmation</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Wangzhi Zhan, Jianpeng Chen, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2025</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] <a href="https://github.com/wzhan24/UniMate">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
   <p><b>26. Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, Lecheng Zheng, Bowen Jin, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Baoyu Jing, Yikun Ban, Jingrui He, Jiawei Han</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2025</b> (Main)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] <a href="https://github.com/Violet24K/Morpher">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
