@@ -206,7 +206,7 @@ nav_order: 1
   <p><b>12. Fairness-Aware Clique-Preserving Spectral Clustering of Temporal Graphs</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou, Ross Maciejewski, Arie Croitoru, Marcus Boyd, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>WWW 2023</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://dongqifu.github.io/assets/pdf/F-SEGA.pdf">[Paper]</a> <a href="https://github.com/DongqiFu/F-SEGA/blob/main/slides/WWW'23_F_SEGA_Presentation_Slides.pdf">[Slides]</a> <a href="https://github.com/DongqiFu/F-SEGA/tree/main/code">[Code]</a></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://dongqifu.github.io/assets/pdf/F-SEGA.pdf">[Paper]</a> <a href="https://github.com/DongqiFu/F-SEGA/blob/main/slides/WWW'23_F_SEGA_Presentation_Slides.pdf">[Slides]</a> <a href="https://github.com/DongqiFu/F-SEGA">[Code]</a></p>
   </div>
 
   <p></p>
@@ -215,7 +215,7 @@ nav_order: 1
   <p><b>11. Everything Evolves in Personalized PageRank</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>WWW 2023</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://dongqifu.github.io/assets/pdf/EvePPR.pdf">[Paper]</a> <a href="https://github.com/DongqiFu/EvePPR/blob/main/slides/WWW'23_EvePPR_Presentation_Slides.pdf">[Slides]</a> <a href="https://github.com/DongqiFu/EvePPR/tree/main/code">[Code]</a></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://dongqifu.github.io/assets/pdf/EvePPR.pdf">[Paper]</a> <a href="https://github.com/DongqiFu/EvePPR/blob/main/slides/WWW'23_EvePPR_Presentation_Slides.pdf">[Slides]</a> <a href="https://github.com/DongqiFu/EvePPR">[Code]</a></p>
   </div>
 
   <p></p>
