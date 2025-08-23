@@ -43,6 +43,7 @@ nav_order: 1
 }
 </style>
 
+<!--
 ===========================================
 
 <details close>
@@ -54,6 +55,7 @@ nav_order: 1
 </details>
 <p></p>
 ===========================================
+-->
 
 <details open>
   <summary><b>Published</b> (* denotes Equal Contribution)</summary>
