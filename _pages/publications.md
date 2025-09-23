@@ -86,7 +86,7 @@ nav_order: 1
   <p><b>26. Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, Lecheng Zheng, Bowen Jin, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Baoyu Jing, Yikun Ban, Jingrui He, Jiawei Han</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2025</b> (Main)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] <a href="https://github.com/Violet24K/Morpher">[Code]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2412.08174">[Paper]</a> <a href="https://github.com/Violet24K/Morpher">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
