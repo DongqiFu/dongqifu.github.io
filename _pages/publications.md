@@ -63,30 +63,30 @@ nav_order: 1
 
   <div class="paper-block">
   <p><b>36. Haystack Engineering: Context Engineering Meets the Long-Context Challenge in Large Language Models</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Mufei Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Limei Wang, Si Zhang, Hanqing Zeng, Kaan Sancak, Ruizhong Qiu, Haoyu Wang, Xiaoxin He, Xavier Bresson, Yinglong Xia, Chonglin Sun, Pan Li
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Mufei Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Limei Wang, Si Zhang, Hanqing Zeng, Kaan Sancak, Ruizhong Qiu, Haoyu Wang, Xiaoxin He, Xavier Bresson, Yinglong Xia, Chonglin Sun, Pan Li</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b> (LLM Evaluation Workshop)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] [Code] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] [Code]</p>
   </div>
 
   <div class="paper-block">
   <p><b>35. Search-MM: Benchmarking Multimodal Agentic RAG with Structured Reasoning Chains</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Tianxin Wei, Mengting Ai, Jiaru Zou, Ting-Wei Li, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b> (LLM Evaluation Workshop)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] [Code] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] [Code]</p>
   </div>
 
   <div class="paper-block">
   <p><b>34. Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Zihao Li, Xiao Lin, Zhining Liu, Jiaru Zou, Ziwei Wu, Lecheng Zheng, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yada Zhu, Hendrik Hamann, Hanghang Tong, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b> (Time Series Foundation Models Workshop)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] [Code] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] [Code]</p>
   </div>
 
   <div class="paper-block">
   <p><b>33. HeroFilter: Adaptive Spectral Graph Filter for Varying Heterophilic Relations</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Shuaicheng Zhang*, Haohui Wang*, Junhong Lin, Xiaojie Guo, Yada Zhu, Si Zhang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] [Code] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] [Code]</p>
   </div>
 
   <div class="paper-block">
