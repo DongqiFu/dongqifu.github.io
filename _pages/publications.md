@@ -92,7 +92,7 @@ nav_order: 1
   <div class="paper-block">
   <p><b>32. Billion-Scale Graph Deep Learning Framework for Ads Recommendation</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Si Zhang*, Weilin Cong*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Andrey Malevich, Hao Wu, Baichuan Yuan, Xin Zhou, Kaveh Hassani, Zhigang Hua, Austin Derrow-Pinion, Yan Xie, Xuewei Wang, Yinglong Xia, Ning Yao, Vena Li, Sem Park, Bo Long</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>CIKM 2025</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>CIKM 2025</b> (Industry)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] </p>
   </div>
 
