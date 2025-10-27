@@ -62,6 +62,13 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
+  <p><b>37. Bring Complex Geometric Information to LLMs: A Positional Survey of Graph Parametric Representation</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>*, Liri Fang*, Zihao Li*, Zhe Xu*, Hanghang Tong, Vetle I Torvik, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>LOG 2025</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] </p>
+  </div>
+
+  <div class="paper-block">
   <p><b>36. Haystack Engineering: Context Engineering Meets the Long-Context Challenge in Large Language Models</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Mufei Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Limei Wang, Si Zhang, Hanqing Zeng, Kaan Sancak, Ruizhong Qiu, Haoyu Wang, Xiaoxin He, Xavier Bresson, Yinglong Xia, Chonglin Sun, Pan Li</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b> (LLM Evaluation Workshop)</p>
