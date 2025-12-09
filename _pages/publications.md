@@ -62,59 +62,73 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
+  <p><b>39. RankGraph-Context: Empowering Different Industrial Recommendation System Stages</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yinglong Xia, Hong Li, Hong Yan</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>WSDM 2026</b> (Industry) </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>38. Hypergraphs as Weighted Directed Self-Looped Graphs: Spectral Properties, Clustering, Cheeger Inequality</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hengyu Liu, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>TMLR</b>, November 2025</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=xLWhuCXWiM">[Paper]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/HyperClus-G">[Code]</a> </p>
+  </div>
+
+  <div class="paper-block">
   <p><b>37. Bring Complex Geometric Information to LLMs: A Positional Survey of Graph Parametric Representation</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>*, Liri Fang*, Zihao Li*, Zhe Xu*, Hanghang Tong, Vetle I Torvik, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>LOG 2025</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=AZmt7LlBmI">[Paper]</a> <a href="https://github.com/DongqiFu/Awesome-Graphs-into-LLMs">[Repo]</a> </p>
   </div>
 
   <div class="paper-block">
   <p><b>36. Haystack Engineering: Context Engineering Meets the Long-Context Challenge in Large Language Models</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Mufei Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Limei Wang, Si Zhang, Hanqing Zeng, Kaan Sancak, Ruizhong Qiu, Haoyu Wang, Xiaoxin He, Xavier Bresson, Yinglong Xia, Chonglin Sun, Pan Li</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b> (LLM Evaluation Workshop)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] [Code]</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=wON1mDtXG1">[Paper]</a> <a href="https://github.com/Graph-COM/HaystackCraft">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>35. Search-MM: Benchmarking Multimodal Agentic RAG with Structured Reasoning Chains</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Tianxin Wei, Mengting Ai, Jiaru Zou, Ting-Wei Li, Jingrui He</p>
+  <p><b>35. MC-Search: Benchmarking Multimodal Agentic RAG with Structured Reasoning Chains</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>*, Tianxin Wei*, Mengting Ai, Jiaru Zou, Ting-Wei Li, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b> (LLM Evaluation Workshop)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] [Code]</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=S2zaYgT7Ic">[Paper]</a> <a href="https://github.com/YennNing/MC-Search">[Code]</a></p>
   </div>
 
   <div class="paper-block">
   <p><b>34. Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Zihao Li, Xiao Lin, Zhining Liu, Jiaru Zou, Ziwei Wu, Lecheng Zheng, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yada Zhu, Hendrik Hamann, Hanghang Tong, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b> (Time Series Foundation Models Workshop)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] [Code]</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=VFNHX7oPWj">[Paper]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/TaTS">[Code]</a></p>
   </div>
 
   <div class="paper-block">
   <p><b>33. HeroFilter: Adaptive Spectral Graph Filter for Varying Heterophilic Relations</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Shuaicheng Zhang*, Haohui Wang*, Junhong Lin, Xiaojie Guo, Yada Zhu, Si Zhang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] [Code]</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=77Kw7b7EYb">[Paper]</a> <a href="https://github.com/zshuai8/HeroFilter">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
   <p><b>32. Billion-Scale Graph Deep Learning Framework for Ads Recommendation</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Si Zhang*, Weilin Cong*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Andrey Malevich, Hao Wu, Baichuan Yuan, Xin Zhou, Kaveh Hassani, Zhigang Hua, Austin Derrow-Pinion, Yan Xie, Xuewei Wang, Yinglong Xia, Ning Yao, Vena Li, Sem Park, Bo Long</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>CIKM 2025</b> (<span style="color:red;">Industry</span>)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>CIKM 2025</b> (Industry)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://dl.acm.org/doi/10.1145/3746252.3761542">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
   <p><b>31. ClimateBench-M: A Multi-Modal Climate Data Benchmark with a Simple Generative Method</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yada Zhu, Zhining Liu, Lecheng Zheng, Xiao Lin, Zihao Li, Liri Fang, Katherine Tieu, Onkar Bhardwaj, Kommy Weldemariam, Hanghang Tong, Hendrik Hamann, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>CIKM 2025</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/ClimateBench-M">[Code]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://dl.acm.org/doi/10.1145/3746252.3761647">[Paper]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/ClimateBench-M">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>30. PyG-SSL: A Graph Self-Supervised Learning Toolkit}</b></p>
+  <p><b>30. PyG-SSL: A Graph Self-Supervised Learning Toolkit</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Lecheng Zheng*, Baoyu Jing*, Zihao Li*, Zhichen Zeng, Tianxin Wei, Mengting Ai, Xinrui He, Lihui Liu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jiaxuan You, Hanghang Tong, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>CIKM 2025</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/pyg-ssl">[Code]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://dl.acm.org/doi/10.1145/3746252.3761620">[Paper]</a>  <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/pyg-ssl">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
