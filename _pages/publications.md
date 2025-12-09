@@ -69,17 +69,17 @@ nav_order: 1
   </div>
 
   <div class="paper-block">
-  <p><b>38. Hypergraphs as Weighted Directed Self-Looped Graphs: Spectral Properties, Clustering, Cheeger Inequality</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hengyu Liu, Jingrui He</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>TMLR</b>, November 2025</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=xLWhuCXWiM">[Paper]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/HyperClus-G">[Code]</a> </p>
-  </div>
-
-  <div class="paper-block">
-  <p><b>37. Bring Complex Geometric Information to LLMs: A Positional Survey of Graph Parametric Representation</b></p>
+  <p><b>38. Bring Complex Geometric Information to LLMs: A Positional Survey of Graph Parametric Representation</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>*, Liri Fang*, Zihao Li*, Zhe Xu*, Hanghang Tong, Vetle I Torvik, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>LOG 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=AZmt7LlBmI">[Paper]</a> <a href="https://github.com/DongqiFu/Awesome-Graphs-into-LLMs">[Repo]</a> </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>37. MC-Search: Benchmarking Multimodal Agentic RAG with Structured Reasoning Chains</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>*, Tianxin Wei*, Mengting Ai, Jiaru Zou, Ting-Wei Li, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b> (LLM Evaluation Workshop)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=S2zaYgT7Ic">[Paper]</a> <a href="https://github.com/YennNing/MC-Search">[Code]</a></p>
   </div>
 
   <div class="paper-block">
@@ -90,24 +90,24 @@ nav_order: 1
   </div>
 
   <div class="paper-block">
-  <p><b>35. MC-Search: Benchmarking Multimodal Agentic RAG with Structured Reasoning Chains</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>*, Tianxin Wei*, Mengting Ai, Jiaru Zou, Ting-Wei Li, Jingrui He</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b> (LLM Evaluation Workshop)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=S2zaYgT7Ic">[Paper]</a> <a href="https://github.com/YennNing/MC-Search">[Code]</a></p>
-  </div>
-
-  <div class="paper-block">
-  <p><b>34. Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative</b></p>
+  <p><b>35. Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Zihao Li, Xiao Lin, Zhining Liu, Jiaru Zou, Ziwei Wu, Lecheng Zheng, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yada Zhu, Hendrik Hamann, Hanghang Tong, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b> (Time Series Foundation Models Workshop)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=VFNHX7oPWj">[Paper]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/TaTS">[Code]</a></p>
   </div>
 
   <div class="paper-block">
-  <p><b>33. HeroFilter: Adaptive Spectral Graph Filter for Varying Heterophilic Relations</b></p>
+  <p><b>34. HeroFilter: Adaptive Spectral Graph Filter for Varying Heterophilic Relations</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Shuaicheng Zhang*, Haohui Wang*, Junhong Lin, Xiaojie Guo, Yada Zhu, Si Zhang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=77Kw7b7EYb">[Paper]</a> <a href="https://github.com/zshuai8/HeroFilter">[Code]</a> </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>33. Hypergraphs as Weighted Directed Self-Looped Graphs: Spectral Properties, Clustering, Cheeger Inequality</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hengyu Liu, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>TMLR</b>, November 2025</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=xLWhuCXWiM">[Paper]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/HyperClus-G">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
