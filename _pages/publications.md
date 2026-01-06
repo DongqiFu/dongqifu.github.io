@@ -62,9 +62,16 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>39. RankGraph-Context: Empowering Different Industrial Recommendation System Stages</b></p>
+  <p><b>40. RankGraph-Context: Empowering Different Industrial Recommendation System Stages</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yinglong Xia, Hong Li, Hong Yan</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>WSDM 2026</b> (Industry) </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>39. How to Make LMs Strong Node Classifiers?</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Zhe Xu, Kaveh Hassani, Si Zhang, Hanqing Zeng, Michihiro Yasunaga, Limei Wang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Ning Yao, Bo Long, Hanghang Tong</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>EACL 2026</b> (Findings) </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] </p>
   </div>
 
