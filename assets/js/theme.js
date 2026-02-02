@@ -43,7 +43,9 @@ let setTheme = (theme) => {
     document.documentElement.removeAttribute("data-theme");
   }
 
-  localStorage.setItem("theme", theme);
+  // localStorage.setItem("theme", theme);
+  // Do not persist theme across sessions
+  localStorage.removeItem("theme");
 
   // Updates the background of medium-zoom overlay.
   if (typeof medium_zoom !== "undefined") {
@@ -87,15 +89,19 @@ let transTheme = () => {
   }, 500);
 };
 
+// let initTheme = (theme) => {
+//   if (theme == null || theme == "null") {
+//     const userPref = window.matchMedia;
+//     if (userPref && userPref("(prefers-color-scheme:dark)").matches) {
+//       theme = "dark";
+//     }
+//   }
+//   setTheme(theme);
+// };
 let initTheme = (theme) => {
-  if (theme == null || theme == "null") {
-    const userPref = window.matchMedia;
-    if (userPref && userPref("(prefers-color-scheme:dark)").matches) {
-      theme = "dark";
-    }
-  }
-
-  setTheme(theme);
+  // Always default to LIGHT on page load
+  setTheme("light");
 };
 
-initTheme(localStorage.getItem("theme"));
+// initTheme(localStorage.getItem("theme"));
+initTheme(null); // always start from default
