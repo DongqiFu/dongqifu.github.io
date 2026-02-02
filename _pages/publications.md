@@ -284,6 +284,13 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
+  <p><b>16. Empowering Graph Intelligence via Natural and Artificial Dynamics</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>PhD Thesis</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://hdl.handle.net/2142/125571">[Paper]</a></p>
+  </div>
+
+  <div class="paper-block">
   <p><b>16. Generating Fine-Grained Causality in Climate Time Series Data for Forecasting and Anomaly Detection</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yada Zhu, Hanghang Tong, Kommy Weldemariam, Onkar Bhardwaj, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2024</b> (AI4Science Workshop)</p>
