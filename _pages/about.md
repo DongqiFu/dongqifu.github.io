@@ -46,13 +46,13 @@ I am a Research Scientist from Meta MRS Algorithms, and I work on Geometric Deep
 -->
 
 ### 🏆 **Selected Awards**
-* [**Top 3% Spotlight Paper**](https://openreview.net/forum?id=tj5xJInWty&noteId=W4Gs7CyEAt) (By 2025 ICLR Conference)
-* [**Top 2% Spotlight Paper**](https://openreview.net/forum?id=Kl13lipxTW&noteId=VYAMgFWVEz) (By 2024 NeurIPS Conference)
-* [**Rising Star in Data Science 2023**](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars-in-data-science-2/2023-rising-stars/) (By UChicago DSI and UCSD HDSI)
-* [**CS Ph.D. Fellowship 2023**](https://grad.illinois.edu/fellowship/fellows) (By UIUC CS)
-* [**C.W. Gear Outstanding Graduate Student 2023**](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student) (By UIUC CS)
-* [**Rising Star in Data Mining and Management 2022**](https://www.frontiersin.org/research-topics/37426/rising-stars-in-data-mining-and-management-2022) (By Frontiers Journal)
-* [**NeurIPS Top 8% Reviewer 2022**](https://neurips.cc/Conferences/2022/ProgramCommittee) with [**PC Registration Award**](https://nips.cc/Conferences/2020/PaperInformation/AC-SACGuidelines) (By NeurIPS Conference)
+* [**2025 Top 3% Spotlight Paper**](https://openreview.net/forum?id=tj5xJInWty&noteId=W4Gs7CyEAt) (By 2025 ICLR Conference)
+* [**2024 Top 2% Spotlight Paper**](https://openreview.net/forum?id=Kl13lipxTW&noteId=VYAMgFWVEz) (By 2024 NeurIPS Conference)
+* [**2023 Rising Star in Data Science**](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars-in-data-science-2/2023-rising-stars/) (By UChicago DSI and UCSD HDSI)
+* [**2023 CS Ph.D. Fellowship**](https://grad.illinois.edu/fellowship/fellows) (By UIUC CS)
+* [**2023 C.W. Gear Outstanding Graduate Student**](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student) (By UIUC CS)
+* [**2022 Rising Star in Data Mining and Management**](https://www.frontiersin.org/research-topics/37426/rising-stars-in-data-mining-and-management-2022) (By Frontiers Journal)
+* [**2022 NeurIPS Top 8% Reviewer 2022**](https://neurips.cc/Conferences/2022/ProgramCommittee) with [**PC Registration Award**](https://nips.cc/Conferences/2020/PaperInformation/AC-SACGuidelines) (By 2022 NeurIPS Conference)
 
 <!--- 
 * [SIAM Student Travel Award](https://www.siam.org/conferences/conference-support/siam-student-travel-awards) (To attend SDM' 2024)
