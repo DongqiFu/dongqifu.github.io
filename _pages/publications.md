@@ -286,7 +286,7 @@ nav_order: 1
   <div class="paper-block">
   <p><b>17. Empowering Graph Intelligence via Natural and Artificial Dynamics</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>PhD Thesis</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>PhD Thesis</b>, July 2024</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://hdl.handle.net/2142/125571">[Paper]</a></p>
   </div>
 
