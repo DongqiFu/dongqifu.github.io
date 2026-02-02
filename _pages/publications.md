@@ -62,45 +62,66 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>40. RankGraph-Context: Empowering Different Industrial Recommendation System Stages</b></p>
+  <p><b>43. MC-Search: Evaluating and Enhancing Multimodal Agentic Search with Structured Long Reasoning Chains</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Tianxin Wei, Mengting Ai, Jiaru Zou, Ting-Wei Li, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2026</b>, <b>NeurIPS 2025</b> (LLM Evaluation Workshop)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=S2zaYgT7Ic">[Paper]</a> <a href="https://github.com/YennNing/MC-Search">[Code]</a></p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>42. Geometric Constraints for Small Language Models to Understand and Expand Scientific Taxonomies</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Liri Fang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jiawei Han, Jingrui He, Vetle I Torvik </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2026</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear]</p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>41. OwlEye: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Lecheng Zheng, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Zihao Li, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2026</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2601.19102">[Paper]</a> [Code]</p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>40. Efficient Retrieval Scaling with Hierarchical Indexing for Large Scale Recommendation</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Kaushik Rangadurai, Haiyu Lu, Yunchen Pu, Siyang Yuan, Minhui Huang, Yiqun Liu, Golnaz Ghasemiesfeh, Xingfeng He, Fangzhou Xu, Andrew Cui, Vidhoon Viswanathan, Lin Yang, Liang Wang, Jiyan Yang, Chonglin Sun</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>EDBT 2026</b> (Industry)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear]</p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>39. Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Zihao Li, Xiao Lin, Zhining Liu, Jiaru Zou, Ziwei Wu, Lecheng Zheng, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yada Zhu, Hendrik Hamann, Hanghang Tong, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2026</b>, <b>NeurIPS 2025</b> (Time Series Foundation Models Workshop)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=VFNHX7oPWj">[Paper]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/TaTS">[Code]</a></p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>38. RankGraph-Context: Empowering Different Industrial Recommendation System Stages</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yinglong Xia, Hong Li, Hong Yan</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>WSDM 2026</b> (Industry) </p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] </p>
   </div>
 
   <div class="paper-block">
-  <p><b>39. How to Make LMs Strong Node Classifiers?</b></p>
+  <p><b>37. How to Make LMs Strong Node Classifiers?</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Zhe Xu, Kaveh Hassani, Si Zhang, Hanqing Zeng, Michihiro Yasunaga, Limei Wang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Ning Yao, Bo Long, Hanghang Tong</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>EACL 2026</b> (Findings) </p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Paper] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] </p>
   </div>
 
   <div class="paper-block">
-  <p><b>38. Bring Complex Geometric Information to LLMs: A Positional Survey of Graph Parametric Representation</b></p>
+  <p><b>36. Bring Complex Geometric Information to LLMs: A Positional Survey of Graph Parametric Representation</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>*, Liri Fang*, Zihao Li*, Zhe Xu*, Hanghang Tong, Vetle I Torvik, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>LOG 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=AZmt7LlBmI">[Paper]</a> <a href="https://github.com/DongqiFu/Awesome-Graphs-into-LLMs">[Repo]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>37. MC-Search: Benchmarking Multimodal Agentic RAG with Structured Reasoning Chains</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>*, Tianxin Wei*, Mengting Ai, Jiaru Zou, Ting-Wei Li, Jingrui He</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b> (LLM Evaluation Workshop)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=S2zaYgT7Ic">[Paper]</a> <a href="https://github.com/YennNing/MC-Search">[Code]</a></p>
-  </div>
-
-  <div class="paper-block">
-  <p><b>36. Haystack Engineering: Context Engineering Meets the Long-Context Challenge in Large Language Models</b></p>
+  <p><b>35. Haystack Engineering: Context Engineering Meets the Long-Context Challenge in Large Language Models</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Mufei Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Limei Wang, Si Zhang, Hanqing Zeng, Kaan Sancak, Ruizhong Qiu, Haoyu Wang, Xiaoxin He, Xavier Bresson, Yinglong Xia, Chonglin Sun, Pan Li</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b> (LLM Evaluation Workshop)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=wON1mDtXG1">[Paper]</a> <a href="https://github.com/Graph-COM/HaystackCraft">[Code]</a> </p>
-  </div>
-
-  <div class="paper-block">
-  <p><b>35. Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Zihao Li, Xiao Lin, Zhining Liu, Jiaru Zou, Ziwei Wu, Lecheng Zheng, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yada Zhu, Hendrik Hamann, Hanghang Tong, Jingrui He</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b> (Time Series Foundation Models Workshop)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=VFNHX7oPWj">[Paper]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/TaTS">[Code]</a></p>
   </div>
 
   <div class="paper-block">
