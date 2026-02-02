@@ -50,18 +50,23 @@ nav_order: 1
   <summary><b>Pre-Print</b> (* denotes Equal Contribution)</summary>
   <p></p>
 
+  <div class="paper-block">
   <p><b>3. RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jiaru Zou*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>*, Sirui Chen, Xinrui He, Zihao Li, Yada Zhu, Jiawei Han, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2504.01346">[arXiv]</a> </p>
+  </div>
   
+  <div class="paper-block">
   <p><b>2. Agentic Reasoning for Large Language Models</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Tianxin Wei*, Ting-Wei Li*, Zhining Liu*, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian, Yu Wang, Xiangru Tang, Yin Xiao, Liri Fang, Hui Liu, Xianfeng Tang, Yuji Zhang, Chi Wang, Jiaxuan You, Heng Ji, Hanghang Tong, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2601.12538">[arXiv]</a> </p>
-
+  </div>
+  
+  <div class="paper-block">
   <p><b>1. Provably Extending PageRank-based Local Clustering Algorithm to Weighted Directed Graphs with Self-Loops and to Hypergraphs</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hengyu Liu, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2412.03008">[arXiv]</a> </p>
-
+  </div>
   
 
 </details>
@@ -119,7 +124,7 @@ nav_order: 1
   <p><b>37. How to Make LMs Strong Node Classifiers?</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Zhe Xu, Kaveh Hassani, Si Zhang, Hanqing Zeng, Michihiro Yasunaga, Limei Wang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Ning Yao, Bo Long, Hanghang Tong</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>EACL 2026</b> (Findings) </p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2410.02296">[Paper]</a> [Code] </p>
   </div>
 
   <div class="paper-block">
