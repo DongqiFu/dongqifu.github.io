@@ -79,140 +79,140 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>43. MC-Search: Evaluating and Enhancing Multimodal Agentic Search with Structured Long Reasoning Chains</b></p>
+  <p><b>44. MC-Search: Evaluating and Enhancing Multimodal Agentic Search with Structured Long Reasoning Chains</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Tianxin Wei, Mengting Ai, Jiaru Zou, Ting-Wei Li, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2026</b>, <b>NeurIPS 2025</b> (LLM Evaluation Workshop)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=S2zaYgT7Ic">[Paper]</a> <a href="https://github.com/YennNing/MC-Search">[Code]</a></p>
   </div>
 
   <div class="paper-block">
-  <p><b>42. Geometric Constraints for Small Language Models to Understand and Expand Scientific Taxonomies</b></p>
+  <p><b>43. Geometric Constraints for Small Language Models to Understand and Expand Scientific Taxonomies</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Liri Fang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jiawei Han, Jingrui He, Vetle I Torvik </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2026</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear]</p>
   </div>
 
   <div class="paper-block">
-  <p><b>41. OwlEye: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection</b></p>
+  <p><b>42. OwlEye: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Lecheng Zheng, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Zihao Li, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2026</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2601.19102">[Paper]</a> [Code]</p>
   </div>
 
   <div class="paper-block">
-  <p><b>40. Efficient Retrieval Scaling with Hierarchical Indexing for Large Scale Recommendation</b></p>
+  <p><b>41. Efficient Retrieval Scaling with Hierarchical Indexing for Large Scale Recommendation</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Kaushik Rangadurai, Haiyu Lu, Yunchen Pu, Siyang Yuan, Minhui Huang, Yiqun Liu, Golnaz Ghasemiesfeh, Xingfeng He, Fangzhou Xu, Andrew Cui, Vidhoon Viswanathan, Lin Yang, Liang Wang, Jiyan Yang, Chonglin Sun</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>EDBT 2026</b> (Industry)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear]</p>
   </div>
 
   <div class="paper-block">
-  <p><b>39. Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative</b></p>
+  <p><b>40. Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Zihao Li, Xiao Lin, Zhining Liu, Jiaru Zou, Ziwei Wu, Lecheng Zheng, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yada Zhu, Hendrik Hamann, Hanghang Tong, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2026</b>, <b>NeurIPS 2025</b> (Time Series Foundation Models Workshop)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=VFNHX7oPWj">[Paper]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/TaTS">[Code]</a></p>
   </div>
 
   <div class="paper-block">
-  <p><b>38. RankGraph-Context: Empowering Different Industrial Recommendation System Stages</b></p>
+  <p><b>39. RankGraph-Context: Empowering Different Industrial Recommendation System Stages</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yinglong Xia, Hong Li, Hong Yan</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>WSDM 2026</b> (Industry) </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] </p>
   </div>
 
   <div class="paper-block">
-  <p><b>37. How to Make LMs Strong Node Classifiers?</b></p>
+  <p><b>38. How to Make LMs Strong Node Classifiers?</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Zhe Xu, Kaveh Hassani, Si Zhang, Hanqing Zeng, Michihiro Yasunaga, Limei Wang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Ning Yao, Bo Long, Hanghang Tong</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>EACL 2026</b> (Findings) </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2410.02296">[Paper]</a> [Code] </p>
   </div>
 
   <div class="paper-block">
-  <p><b>36. Bring Complex Geometric Information to LLMs: A Positional Survey of Graph Parametric Representation</b></p>
+  <p><b>37. Bring Complex Geometric Information to LLMs: A Positional Survey of Graph Parametric Representation</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>*, Liri Fang*, Zihao Li*, Zhe Xu*, Hanghang Tong, Vetle I Torvik, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>LOG 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=AZmt7LlBmI">[Paper]</a> <a href="https://github.com/DongqiFu/Awesome-Graphs-into-LLMs">[Repo]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>35. Haystack Engineering: Context Engineering Meets the Long-Context Challenge in Large Language Models</b></p>
+  <p><b>36. Haystack Engineering: Context Engineering Meets the Long-Context Challenge in Large Language Models</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Mufei Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Limei Wang, Si Zhang, Hanqing Zeng, Kaan Sancak, Ruizhong Qiu, Haoyu Wang, Xiaoxin He, Xavier Bresson, Yinglong Xia, Chonglin Sun, Pan Li</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b> (LLM Evaluation Workshop)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=wON1mDtXG1">[Paper]</a> <a href="https://github.com/Graph-COM/HaystackCraft">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>34. HeroFilter: Adaptive Spectral Graph Filter for Varying Heterophilic Relations</b></p>
+  <p><b>35. HeroFilter: Adaptive Spectral Graph Filter for Varying Heterophilic Relations</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Shuaicheng Zhang*, Haohui Wang*, Junhong Lin, Xiaojie Guo, Yada Zhu, Si Zhang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=77Kw7b7EYb">[Paper]</a> <a href="https://github.com/zshuai8/HeroFilter">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>33. Hypergraphs as Weighted Directed Self-Looped Graphs: Spectral Properties, Clustering, Cheeger Inequality</b></p>
+  <p><b>34. Hypergraphs as Weighted Directed Self-Looped Graphs: Spectral Properties, Clustering, Cheeger Inequality</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hengyu Liu, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>TMLR</b>, November 2025</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=xLWhuCXWiM">[Paper]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/HyperClus-G">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>32. Billion-Scale Graph Deep Learning Framework for Ads Recommendation</b></p>
+  <p><b>33. Billion-Scale Graph Deep Learning Framework for Ads Recommendation</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Si Zhang*, Weilin Cong*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Andrey Malevich, Hao Wu, Baichuan Yuan, Xin Zhou, Kaveh Hassani, Zhigang Hua, Austin Derrow-Pinion, Yan Xie, Xuewei Wang, Yinglong Xia, Ning Yao, Vena Li, Sem Park, Bo Long</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>CIKM 2025</b> (Industry)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://dl.acm.org/doi/10.1145/3746252.3761542">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>31. ClimateBench-M: A Multi-Modal Climate Data Benchmark with a Simple Generative Method</b></p>
+  <p><b>32. ClimateBench-M: A Multi-Modal Climate Data Benchmark with a Simple Generative Method</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yada Zhu, Zhining Liu, Lecheng Zheng, Xiao Lin, Zihao Li, Liri Fang, Katherine Tieu, Onkar Bhardwaj, Kommy Weldemariam, Hanghang Tong, Hendrik Hamann, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>CIKM 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://dl.acm.org/doi/10.1145/3746252.3761647">[Paper]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/ClimateBench-M">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>30. PyG-SSL: A Graph Self-Supervised Learning Toolkit</b></p>
+  <p><b>31. PyG-SSL: A Graph Self-Supervised Learning Toolkit</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Lecheng Zheng*, Baoyu Jing*, Zihao Li*, Zhichen Zeng, Tianxin Wei, Mengting Ai, Xinrui He, Lihui Liu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jiaxuan You, Hanghang Tong, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>CIKM 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://dl.acm.org/doi/10.1145/3746252.3761620">[Paper]</a>  <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/pyg-ssl">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>29. Graph4MM: Weaving Multimodal Learning with Structural Information</b></p>
+  <p><b>30. Graph4MM: Weaving Multimodal Learning with Structural Information</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Tianxin Wei, Wujiang Xu, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=FB2e8PV6qg">[Paper]</a> <a href="https://github.com/YennNing/Graph4MM">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>28. Learnable Spatial-Temporal Positional Encoding for Link Prediction</b></p>
+  <p><b>29. Learnable Spatial-Temporal Positional Encoding for Link Prediction</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Katherine Tieu*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Zihao Li, Ross Maciejewski, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2506.08309">[Paper]</a> <a href="https://github.com/kthrn22/L-STEP">[Code]</a></p>
   </div>
 
   <div class="paper-block">
-  <p><b>27. UniMate: A Unified Model for Mechanical Metamaterial Generation, Property Prediction, and Condition Confirmation</b></p>
+  <p><b>28. UniMate: A Unified Model for Mechanical Metamaterial Generation, Property Prediction, and Condition Confirmation</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Wangzhi Zhan, Jianpeng Chen, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2506.15722">[Paper]</a> <a href="https://github.com/wzhan24/UniMate">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>26. Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?</b></p>
+  <p><b>27. Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, Lecheng Zheng, Bowen Jin, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Baoyu Jing, Yikun Ban, Jingrui He, Jiawei Han</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2025</b> (<span style="color:red;">Main</span>)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2412.08174">[Paper]</a> <a href="https://github.com/Violet24K/Morpher">[Code]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>25. Automatic Scientific Claims Verification with Pruned Evidence Graph</b></p>
+  <p><b>26. Automatic Scientific Claims Verification with Pruned Evidence Graph</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Liri Fang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Vetle I. Torvik</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2025</b> (AgenticAI Workshop)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/pdf?id=cYAFwjY2bY">[Paper]</a> <a href="https://github.com/LiriFang/PrunE-code">[Code]</a></p>
   </div>
 
   <div class="paper-block">
-  <p><b>24. Learning Graph Quantized Tokenizers</b></p>
+  <p><b>25. Learning Graph Quantized Tokenizers</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Limei Wang*, Kaveh Hassani*, Si Zhang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Baichuan Yuan, Weilin Cong, Zhigang Hua, Hao Wu, Ning Yao, Bo Long</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2410.13798">[Paper]</a> <a href="https://github.com/limei0307/GQT">[Code]</a></p>
@@ -221,7 +221,7 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>23. Temporal Heterogeneous Graph Generation with Privacy, Utility, and Efficiency</b></p>
+  <p><b>24. Temporal Heterogeneous Graph Generation with Privacy, Utility, and Efficiency</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xinyu He*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Hanghang Tong, Ross Maciejewski, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2025</b> (<span style="color:red;"> 🏆 <b>Spotlight</b>, 3.20% of 11,672 Submissions </span>) </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/pdf?id=tj5xJInWty">[Paper]</a> <a href="https://github.com/xinyuu-he/THePUff">[Code]</a> <a href="https://www.youtube.com/watch?v=1V69zhdkYNE">[Invited Talk at TGL on 04/17/2025]</a> </p>
@@ -230,7 +230,7 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>22. Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem</b></p>
+  <p><b>23. Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Katherine Tieu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jun Wu, Jingrui He </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>AISTATS 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2505.24178">[Paper]</a> <a href="https://github.com/kthrn22/OOD-Linker">[Code]</a></p>
@@ -239,7 +239,7 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>21. APEX²: Adaptive and Extreme Summarization for Personalized Knowledge Graphs</b></p>
+  <p><b>22. APEX²: Adaptive and Extreme Summarization for Personalized Knowledge Graphs</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Mengting Ai, Jingrui He </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2025</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2412.17336">[Paper]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/APEX">[Code]</a></p>
@@ -248,7 +248,7 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>20. Temporal Graph Neural Tangent Kernel with Graphon-Guaranteed</b></p>
+  <p><b>21. Temporal Graph Neural Tangent Kernel with Graphon-Guaranteed</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Katherine Tieu*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Yada Zhu, Hendrik Hamann, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2024</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/pdf?id=266nH7kLSV">[Paper]</a> <a href="https://github.com/kthrn22/TempGNTK">[Code]</a> <a href="https://www.youtube.com/watch?v=tlCEjwQ0_YM">[Invited Talk at TGL on 02/13/2025]</a></p> 
@@ -257,7 +257,7 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>19. PageRank Bandits for Link Prediction</b></p>
+  <p><b>20. PageRank Bandits for Link Prediction</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Yikun Ban*, Jiaru Zou*, Zihao Li, Yunzhe Qi, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jian Kang, Hanghang Tong, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2024</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/pdf?id=VSz9na5Jtl">[Paper]</a> <a href="https://github.com/jiaruzouu/PRB">[Code]</a></p>
@@ -266,7 +266,7 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>18. BackTime: Backdoor Attacks on Multivariate Time Series Forecasting</b></p>
+  <p><b>19. BackTime: Backdoor Attacks on Multivariate Time Series Forecasting</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xiao Lin, Zhining Liu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Ruizhong Qiu, Hanghang Tong</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2024</b> (<span style="color:red;"> 🏆 <b>Spotlight</b>, 2.08% of 15,671 Submissions </span>)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/pdf?id=Kl13lipxTW">[Paper]</a> <a href="https://github.com/xiaolin-cs/BackTime">[Code]</a></p>
@@ -275,7 +275,7 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>17. DrGNN: Deep Residual Graph Neural Network with Contrastive Learning</b></p>
+  <p><b>18. DrGNN: Deep Residual Graph Neural Network with Contrastive Learning</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Lecheng Zheng*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Ross Maciejewski, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>TMLR</b>, October 2024</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/pdf?id=frb6sLbACS">[Paper]</a> <a href="https://github.com/zhenglecheng/DrGNN">[Code]</a></p>
@@ -284,7 +284,7 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>16. Empowering Graph Intelligence via Natural and Artificial Dynamics</b></p>
+  <p><b>17. Empowering Graph Intelligence via Natural and Artificial Dynamics</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>PhD Thesis</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://hdl.handle.net/2142/125571">[Paper]</a></p>
