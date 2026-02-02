@@ -100,24 +100,24 @@ nav_order: 1
   </div>
 
   <div class="paper-block">
-  <p><b>41. Efficient Retrieval Scaling with Hierarchical Indexing for Large Scale Recommendation</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Kaushik Rangadurai, Haiyu Lu, Yunchen Pu, Siyang Yuan, Minhui Huang, Yiqun Liu, Golnaz Ghasemiesfeh, Xingfeng He, Fangzhou Xu, Andrew Cui, Vidhoon Viswanathan, Lin Yang, Liang Wang, Jiyan Yang, Chonglin Sun</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>EDBT 2026</b> (Industry)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear]</p>
-  </div>
-
-  <div class="paper-block">
-  <p><b>40. Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative</b></p>
+  <p><b>41. Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Zihao Li, Xiao Lin, Zhining Liu, Jiaru Zou, Ziwei Wu, Lecheng Zheng, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yada Zhu, Hendrik Hamann, Hanghang Tong, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2026</b>, <b>NeurIPS 2025</b> (Time Series Foundation Models Workshop)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=VFNHX7oPWj">[Paper]</a> <a href="https://github.com/iDEA-iSAIL-Lab-UIUC/TaTS">[Code]</a></p>
   </div>
-
+  
   <div class="paper-block">
-  <p><b>39. RankGraph-Context: Empowering Different Industrial Recommendation System Stages</b></p>
+  <p><b>40. RankGraph-Context: Empowering Different Industrial Recommendation System Stages</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yinglong Xia, Hong Li, Hong Yan</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>WSDM 2026</b> (Industry) </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear] </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>39. Efficient Retrieval Scaling with Hierarchical Indexing for Large Scale Recommendation</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Kaushik Rangadurai, Haiyu Lu, Yunchen Pu, Siyang Yuan, Minhui Huang, Yiqun Liu, Golnaz Ghasemiesfeh, Xingfeng He, Fangzhou Xu, Andrew Cui, Vidhoon Viswanathan, Lin Yang, Liang Wang, Jiyan Yang, Chonglin Sun</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>EDBT 2026</b> (Industry)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear]</p>
   </div>
 
   <div class="paper-block">
