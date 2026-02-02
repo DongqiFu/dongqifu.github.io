@@ -43,19 +43,31 @@ nav_order: 1
 }
 </style>
 
-<!--
+
 ===========================================
 
 <details close>
-  <summary><b>Preprint</b> (* denotes Equal Contribution)</summary>
+  <summary><b>Pre-Print</b> (* denotes Equal Contribution)</summary>
   <p></p>
-  <p><b>What Do LLMs Need to Understand Graphs: A Survey of Parametric Representation of Graphs</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span>*</b>, Liri Fang*, Zihao Li*, Hanghang Tong, Vetle I Torvik, Jingrui He</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://dongqifu.github.io/assets/pdf/Graph_Law_Survey.pdf">[Paper]</a> </p>
+
+  <p><b>3. RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jiaru Zou*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>*, Sirui Chen, Xinrui He, Zihao Li, Yada Zhu, Jiawei Han, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2504.01346">[arXiv]</a> </p>
+  
+  <p><b>2. Agentic Reasoning for Large Language Models</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Tianxin Wei*, Ting-Wei Li*, Zhining Liu*, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian, Yu Wang, Xiangru Tang, Yin Xiao, Liri Fang, Hui Liu, Xianfeng Tang, Yuji Zhang, Chi Wang, Jiaxuan You, Heng Ji, Hanghang Tong, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2601.12538">[arXiv]</a> </p>
+
+  <p><b>1. Provably Extending PageRank-based Local Clustering Algorithm to Weighted Directed Graphs with Self-Loops and to Hypergraphs</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hengyu Liu, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2412.03008">[arXiv]</a> </p>
+
+  
+
 </details>
 <p></p>
 ===========================================
--->
+
 
 <details open>
   <summary><b>Published</b> (* denotes Equal Contribution)</summary>
