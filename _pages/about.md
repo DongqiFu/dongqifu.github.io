@@ -46,6 +46,8 @@ I am a Research Scientist from Meta MRS Algorithms, and I work on Geometric Deep
 -->
 
 ### 🏆 **Selected Awards**
+* [**Top 3% Spotlight Paper**](https://openreview.net/forum?id=tj5xJInWty&noteId=W4Gs7CyEAt) (By ICLR Conference)
+* [**Top 2% Spotlight Paper**](https://openreview.net/forum?id=Kl13lipxTW&noteId=VYAMgFWVEz) (By NeurIPS Conference)
 * [**Rising Star in Data Science 2023**](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars-in-data-science-2/2023-rising-stars/) (By UChicago DSI and UCSD HDSI)
 * [**CS Ph.D. Fellowship 2023**](https://grad.illinois.edu/fellowship/fellows) (By UIUC CS)
 * [**C.W. Gear Outstanding Graduate Student 2023**](https://cs.illinois.edu/about/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student) (By UIUC CS)
