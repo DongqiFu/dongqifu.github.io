@@ -51,21 +51,27 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>3. RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking</b></p>
+  <p><b>4. RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jiaru Zou*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>*, Sirui Chen, Xinrui He, Zihao Li, Yada Zhu, Jiawei Han, Jingrui He</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2504.01346">[arXiv]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2504.01346">[arXiv]</a> <a href="https://github.com/jiaruzouu/T-RAG">[GitHub]</a> <a href="https://huggingface.co/collections/jiaruz2/multitableqa">[HuggingFace]</a> </p>
   </div>
   
   <div class="paper-block">
-  <p><b>2. Agentic Reasoning for Large Language Models</b></p>
+  <p><b>3. Agentic Reasoning for Large Language Models</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Tianxin Wei*, Ting-Wei Li*, Zhining Liu*, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian, Yu Wang, Xiangru Tang, Yin Xiao, Liri Fang, Hui Liu, Xianfeng Tang, Yuji Zhang, Chi Wang, Jiaxuan You, Heng Ji, Hanghang Tong, Jingrui He</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2601.12538">[arXiv]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2601.12538">[arXiv]</a> <a href="https://github.com/weitianxin/Awesome-Agentic-Reasoning">[GitHub]</a> <a href="https://huggingface.co/papers/2601.12538">[HuggingFace]</a> </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>2. TSAQA: Time Series Analysis Question and Answering Benchmark</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Baoyu Jing*, Sanhorn Chen*, Lecheng Zheng, Boyu Liu, Zihao Li, Jiaru Zou, Tianxin Wei, Zhining Liu, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, Yuchen Yan, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jingchao Ni, Jingrui He, Hanghang Tong</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2601.23204">[arXiv]</a> <a href="https://huggingface.co/datasets/TSAQA/TSAQA-Benchmark">[HuggingFace]</a> </p>
   </div>
   
   <div class="paper-block">
   <p><b>1. Provably Extending PageRank-based Local Clustering Algorithm to Weighted Directed Graphs with Self-Loops and to Hypergraphs</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hengyu Liu, Jingrui He</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2412.03008">[arXiv]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2412.03008">[arXiv]</a> <a href="https://github.com/Violet24K/HyperACL">[GitHub]</a></p>
   </div>
   
 
