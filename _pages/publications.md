@@ -87,7 +87,7 @@ nav_order: 1
   <div class="paper-block">
   <p><b>44. MC-Search: Evaluating and Enhancing Multimodal Agentic Search with Structured Long Reasoning Chains</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Tianxin Wei, Mengting Ai, Jiaru Zou, Ting-Wei Li, Jingrui He</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2026</b>, <b>NeurIPS 2025</b> (LLM Evaluation Workshop)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2026</b> (<span style="color:red;"> 🏆 <b>Oral</b>, 1.18% of 18,949 Submissions </span>), <b>NeurIPS 2025</b> (LLM Evaluation Workshop)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=S2zaYgT7Ic">[Paper]</a> <a href="https://github.com/YennNing/MC-Search">[Code]</a></p>
   </div>
 
