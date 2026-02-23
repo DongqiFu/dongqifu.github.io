@@ -7,10 +7,13 @@ nav: true
 nav_order: 4
 ---
 
+**Panelist of Doctoral Consortium**\
+<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> 2026: [WSDM](https://wsdm-conference.org/2026/)
+
 **Conference Session Chair**\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> 2023: [WWW](https://www2023.thewebconf.org/)
 
-**Conference PC Member**\
+**Conference Reviewer/PC Member**\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> 2026: [KDD](https://kdd2026.kdd.org/), [ACL](https://2026.aclweb.org/), [ICML](https://icml.cc/Conferences/2026), [WWW](https://www2026.thewebconf.org/), [WSDM](https://wsdm-conference.org/2026/), [AISTATS](https://virtual.aistats.org/Conferences/2026), [PAKDD](https://www.pakdd2026.org/), [AAAI](https://aaai.org/conference/aaai/aaai-26/)\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> 2025: [LoG](https://logconference.org/), [CIKM](https://cikm2025.org/), [NeurIPS](https://neurips.cc/Conferences/2025), [RecSys](https://recsys.acm.org/recsys25/), [ICML](https://icml.cc/Conferences/2025), [IJCAI](https://2025.ijcai.org/), [AISTATS](https://aistats.org/aistats2025/index.html), [SDM](https://www.siam.org/conferences-events/siam-conferences/sdm25/), [KDD](https://kdd2025.kdd.org/), [ICLR](https://iclr.cc/Conferences/2025), [AAAI](https://aaai.org/conference/aaai/aaai-25/)\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> 2024: [DSAA](https://dsaa2024.dsaa.co/), [LoG](https://logconference.org/), [NeurIPS](https://neurips.cc/Conferences/2024), [IEEE BigData](https://www3.cs.stonybrook.edu/~ieeebigdata2024/), [CIKM](https://cikm2024.org/), [KDD](https://kdd2024.kdd.org/), [IJCAI](https://ijcai24.org/), [ICML](https://icml.cc/Conferences/2024), [TrustLOG@WWW](https://trustlogworkshop.github.io/), [PAKDD](https://pakdd2024.org/), [WWW](https://www2024.thewebconf.org/), [ICLR](https://iclr.cc/Conferences/2024), [SDM](https://www.siam.org/conferences/cm/conference/sdm24), [AAAI](https://aaai.org/aaai-conference/), [WSDM](https://www.wsdm-conference.org/2024/)\
