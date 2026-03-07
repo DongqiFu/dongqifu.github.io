@@ -85,6 +85,7 @@ nav_order: 1
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2504.01346">[Paper]</a> <a href="https://github.com/jiaruzouu/T-RAG">[GitHub]</a> <a href="https://huggingface.co/collections/jiaruz2/multitableqa">[HuggingFace]</a> </p>
   </div>
 
+  <div class="paper-block">
   <p><b>45. ReMix: Reinforcement Routing for Mixtures of LoRAs in LLM Finetuning</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Ruizhong Qiu, Hanqing Zeng, Yinglong Xia, Yiwen Meng, Ren Chen, Jiarui Feng, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Qifan Wang, Jiayi Liu, Jun Xiao, Xiangjun Fan, Benyu Zhang, Hong Li, Zhining Liu, Hyunsik Yoo, Zhichen Zeng, Tianxin Wei, Hanghang Tong</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2026</b> (Lifelong Agents Workshop)</p>
