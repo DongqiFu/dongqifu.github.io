@@ -7,7 +7,19 @@ nav: true
 nav_order: 4
 ---
 
-**Panelist of Doctoral Consortium**\
+**Associate Editor**\
+<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [ACM Computing Surveys (CSUR)](https://dl.acm.org/journal/csur/editorial-board)
+
+**Journal Reviewer**\
+<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [npj Artificial Intelligence](https://www.nature.com/npjai/)\
+<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [ACM TKDD](https://dl.acm.org/journal/tkdd)\
+<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [ACM TIST](https://dl.acm.org/journal/tist)\
+<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)\
+<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)\
+<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)\
+<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Springer DMKD](https://www.springer.com/journal/10618/)
+
+**Conference Panelist of Doctoral Consortium**\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> 2026: [WSDM](https://wsdm-conference.org/2026/)
 
 **Conference Session Chair**\
@@ -21,15 +33,7 @@ nav_order: 4
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> 2022: [LoG](https://logconference.org/), [GTA@BigData](https://gta3.hrl.com/), [TrustLOG@CIKM](https://trustlogworkshop.github.io/), [NeurIPS](https://neurips.cc/Conferences/2022), [CIKM](https://www.cikm2022.org/), [KDD](https://www.kdd.org/kdd2022), [SIGIR](https://sigir.org/sigir2022/), [IJCAI](https://ijcai-22.org/), [ICLR](https://iclr.cc/Conferences/2022)\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> 2021: [CIKM](https://www.cikm2021.org/), [IJCAI](https://ijcai-21.org/), [WWW](https://archives.iw3c2.org/www2021/), [WSDM](https://www.wsdm-conference.org/2021/), [SDM](https://www.siam.org/conferences/cm/conference/sdm21), [DLG@AAAI](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/index.html)
 
-**Journal Reviewer**\
-<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [npj Artificial Intelligence](https://www.nature.com/npjai/)\
-<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [ACM CSUR](https://dl.acm.org/journal/csur)\
-<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [ACM TKDD](https://dl.acm.org/journal/tkdd)\
-<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [ACM TIST](https://dl.acm.org/journal/tist)\
-<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)\
-<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)\
-<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)\
-<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Springer DMKD](https://www.springer.com/journal/10618/)
+
 
 **Seminar Host**\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [I-I (iDEA-iSAIL) Reading Group](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group), May 2021 - May 2024
