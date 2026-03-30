@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Senior Research Scientist from Meta MRS Algorithms, and I work on Geometric Deep Learning, Sequence Modeling, and Probabilistic Graphical Models for their broad applications.
+I am a Senior Research Scientist at Meta MRS Algorithms and an Associate Editor at ACM Computing Surveys. I work on Generative Models, Relational Data, Neural Networks for their broad applications.
 
 ### 🏫 **Education**
 [**University of Illinois Urbana-Champaign (UIUC)**](https://illinois.edu/), 2019 - 2024
