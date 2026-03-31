@@ -19,7 +19,7 @@ nav_order: 4
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Springer DMKD](https://www.springer.com/journal/10618/)
 
-**Conference Panelist of Doctoral Consortium**\
+**Conference Doctoral Consortium Panelist**\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> 2026: [WSDM](https://wsdm-conference.org/2026/)
 
 **Conference Session Chair**\
