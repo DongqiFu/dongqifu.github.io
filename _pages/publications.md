@@ -44,7 +44,7 @@ nav_order: 1
 </style>
 
 
-===========================================
+
 
 <details close>
   <summary><b>Pre-Print</b> (* denotes Equal Contribution)</summary>
@@ -71,7 +71,7 @@ nav_order: 1
 
 </details>
 <p></p>
-===========================================
+
 
 
 <details open>
@@ -103,7 +103,7 @@ nav_order: 1
   <p><b>43. Geometric Constraints for Small Language Models to Understand and Expand Scientific Taxonomies</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Liri Fang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jiawei Han, Jingrui He, Vetle I Torvik </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2026</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2601.19102">[Paper]</a> <a href="https://github.com/LiriFang/SS-Mono">[Github]</a></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://openreview.net/pdf?id=FI075FwAnb">[Paper]</a> <a href="https://github.com/LiriFang/SS-Mono">[Github]</a></p>
   </div>
 
   <div class="paper-block">
