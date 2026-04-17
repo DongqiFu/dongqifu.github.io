@@ -10,6 +10,9 @@ nav_order: 4
 **Associate Editor**\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [ACM Computing Surveys (CSUR)](https://dl.acm.org/journal/csur/editorial-board)
 
+**Area Chair**\
+<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [NeurIPS 2026](https://neurips.cc/Conferences/2026)
+
 **Journal Reviewer**\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [npj Artificial Intelligence](https://www.nature.com/npjai/)\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [ACM TKDD](https://dl.acm.org/journal/tkdd)\
