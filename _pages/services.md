@@ -13,6 +13,12 @@ nav_order: 4
 **Area Chair**\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [NeurIPS 2026](https://neurips.cc/Conferences/2026)
 
+**Doctoral Consortium Panelist**\
+<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [WSDM 2026](https://wsdm-conference.org/2026/)
+
+**Session Chair**\
+<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [WWW 2023](https://www2023.thewebconf.org/)
+
 **Journal Reviewer**\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [npj Artificial Intelligence](https://www.nature.com/npjai/)\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [ACM TKDD](https://dl.acm.org/journal/tkdd)\
@@ -21,12 +27,6 @@ nav_order: 4
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [Springer DMKD](https://www.springer.com/journal/10618/)
-
-**Conference Doctoral Consortium Panelist**\
-<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> 2026: [WSDM](https://wsdm-conference.org/2026/)
-
-**Conference Session Chair**\
-<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> 2023: [WWW](https://www2023.thewebconf.org/)
 
 **Conference Reviewer/PC Member**\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> 2026: [KDD](https://kdd2026.kdd.org/), [ACL](https://2026.aclweb.org/), [ICML](https://icml.cc/Conferences/2026), [WWW](https://www2026.thewebconf.org/), [WSDM](https://wsdm-conference.org/2026/), [AISTATS](https://virtual.aistats.org/Conferences/2026), [PAKDD](https://www.pakdd2026.org/), [AAAI](https://aaai.org/conference/aaai/aaai-26/)\
