@@ -46,6 +46,7 @@ I am a Senior Research Scientist at [Meta MRS](https://github.com/meta-recsys) a
 -->
 
 ### 🏆 **Selected Awards**
+* [**2026 Outstanding Paper**](https://dongqifu.github.io/assets/pdf/LLM_Reasoning_Outstanding_Paper_Certificate.pdf) (By 2026 ICLR LLM Reasoning Workshop)
 * [**2026 Top 1% Oral Paper**](https://openreview.net/forum?id=JEGDp1E4OH&noteId=BWxTMd7jor) (By 2026 ICLR Conference)
 * [**2025 Top 3% Spotlight Paper**](https://openreview.net/forum?id=tj5xJInWty&noteId=W4Gs7CyEAt) (By 2025 ICLR Conference)
 * [**2024 Top 2% Spotlight Paper**](https://openreview.net/forum?id=Kl13lipxTW&noteId=VYAMgFWVEz) (By 2024 NeurIPS Conference)
