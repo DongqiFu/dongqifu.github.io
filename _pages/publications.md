@@ -79,9 +79,16 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
+  <p><b>47. PhyVer: Physics-Grounded Material Claim Verification with Multi-Fidelity Physical Evidence</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jianpeng Chen*, Wangzhi Zhan*, Haohui Wang, Brian Mayer,  <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2026</b> (Demo)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>[To appear] </p>
+  </div>
+  
+  <div class="paper-block">
   <p><b>46. RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jiaru Zou*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>*, Sirui Chen, Xinrui He, Zihao Li, Yada Zhu, Jiawei Han, Jingrui He</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2026</b> (Findings), <b>ICLR 2026</b> (LLM Reasoning Workshop, Oral)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2026</b> (Findings), <b>ICLR 2026</b> (LLM Reasoning Workshop, 🏆 Oral, 8 of 150+ Submissons)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2504.01346">[Paper]</a> <a href="https://github.com/jiaruzouu/T-RAG">[GitHub]</a> <a href="https://huggingface.co/collections/jiaruz2/multitableqa">[HuggingFace]</a> </p>
   </div>
 
