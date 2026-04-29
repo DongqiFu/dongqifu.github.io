@@ -51,15 +51,9 @@ nav_order: 1
   <p></p>
   
   <div class="paper-block">
-  <p><b>3. Agentic Reasoning for Large Language Models</b></p>
+  <p><b>2. Agentic Reasoning for Large Language Models</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Tianxin Wei*, Ting-Wei Li*, Zhining Liu*, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian, Yu Wang, Xiangru Tang, Yin Xiao, Liri Fang, Hui Liu, Xianfeng Tang, Yuji Zhang, Chi Wang, Jiaxuan You, Heng Ji, Hanghang Tong, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2601.12538">[arXiv]</a> <a href="https://github.com/weitianxin/Awesome-Agentic-Reasoning">[GitHub]</a> <a href="https://huggingface.co/papers/2601.12538">[HuggingFace]</a> </p>
-  </div>
-
-  <div class="paper-block">
-  <p><b>2. TSAQA: Time Series Analysis Question and Answering Benchmark</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Baoyu Jing*, Sanhorn Chen*, Lecheng Zheng, Boyu Liu, Zihao Li, Jiaru Zou, Tianxin Wei, Zhining Liu, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, Yuchen Yan, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jingchao Ni, Jingrui He, Hanghang Tong</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2601.23204">[arXiv]</a> <a href="https://huggingface.co/datasets/TSAQA/TSAQA-Benchmark">[HuggingFace]</a> </p>
   </div>
   
   <div class="paper-block">
@@ -79,6 +73,13 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
+  <p><b>48. TSAQA: Time Series Analysis Question and Answering Benchmark</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Baoyu Jing*, Sanhorn Chen*, Lecheng Zheng, Boyu Liu, Zihao Li, Jiaru Zou, Tianxin Wei, Zhining Liu, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, Yuchen Yan, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jingchao Ni, Jingrui He, Hanghang Tong</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2026</b> (Generation, Evaluation & Metrics Workshop)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2601.23204">[arXiv]</a> <a href="https://huggingface.co/datasets/TSAQA/TSAQA-Benchmark">[HuggingFace]</a> </p>
+  </div>
+  
+  <div class="paper-block">
   <p><b>47. PhyVer: Physics-Grounded Material Claim Verification with Multi-Fidelity Physical Evidence</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jianpeng Chen*, Wangzhi Zhan*, Haohui Wang, Brian Mayer,  <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2026</b> (Demo)</p>
@@ -88,7 +89,7 @@ nav_order: 1
   <div class="paper-block">
   <p><b>46. RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jiaru Zou*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>*, Sirui Chen, Xinrui He, Zihao Li, Yada Zhu, Jiawei Han, Jingrui He</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2026</b> (Findings), <b>ICLR 2026</b> (LLM Reasoning Workshop, 🏆 Oral, 8 of 150+ Submissons)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2026</b> (Findings), <b>ICLR 2026</b> (LLM Reasoning Workshop, 🏆 Oral, 8 of 150+ Accepted)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2504.01346">[Paper]</a> <a href="https://github.com/jiaruzouu/T-RAG">[GitHub]</a> <a href="https://huggingface.co/collections/jiaruz2/multitableqa">[HuggingFace]</a> </p>
   </div>
 
