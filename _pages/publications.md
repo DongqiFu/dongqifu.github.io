@@ -73,6 +73,13 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
+  <p><b>49. DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jiarui Feng, Hanqing Zeng, Karish Grover, Ruizhong Qiu, Yinglong Xia, Qiang Zhang, Qifan Wang, Ren Chen, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jiayi Liu, Zhuokai Zhao, Xiangjun Fan, Benyu Zhang, Yixin Chen</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2026</b> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
+  </div>
+
+  <div class="paper-block">
   <p><b>48. TSAQA: Time Series Analysis Question and Answering Benchmark</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Baoyu Jing*, Sanhorn Chen*, Lecheng Zheng, Boyu Liu, Zihao Li, Jiaru Zou, Tianxin Wei, Zhining Liu, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, Yuchen Yan, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jingchao Ni, Jingrui He, Hanghang Tong</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2026</b> (Generation, Evaluation & Metrics Workshop)</p>
