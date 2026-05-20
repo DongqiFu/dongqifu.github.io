@@ -46,22 +46,23 @@ nav_order: 1
 
 
 
-<details close>
+<details open>
   <summary><b>Pre-Print</b> (* denotes Equal Contribution)</summary>
   <p></p>
+
+  <div class="paper-block">
+  <p><b>2. Code as Agent Harness</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning, Katherine Tieu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Tianxin Wei, Zihao Li, Yuanchen Bei, Jiaru Zou, Mengting Ai, Zhining Liu, Ting-Wei Li, Lingjie Chen, Yanjun Zhao, Ke Yang, Bingxuan Li, Cheng Qian, Gaotang Li, Xiao Lin, Zhichen Zeng, Ruizhong Qiu, Sirui Chen, Yifan Sun, Xiyuan Yang, Ruida Wang, Rui Pan, Chenyuan Yang, Dylan Zhang, Liri Fang, Zikun Cui, Yang Cao, Pan Chen, Dorothy Sun, Ren Chen, Mahesh Srinivasan, Nipun Mathur, Yinglong Xia, Hong Li, Hong Yan, Pan Lu, Lingming Zhang, Tong Zhang, Hanghang Tong, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>🤗 HuggingFace <a href="https://huggingface.co/papers/date/2026-05-19">[#1 Paper of the Day]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2605.18747">[arXiv]</a> <a href="https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers">[GitHub]</a> <a href="https://huggingface.co/papers/2605.18747">[HuggingFace]</a> <a href="https://code-as-harness.github.io/code-as-harness-webpage/">[Website]</a> </p>
+  </div>
   
   <div class="paper-block">
-  <p><b>2. Agentic Reasoning for Large Language Models</b></p>
+  <p><b>1. Agentic Reasoning for Large Language Models</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Tianxin Wei*, Ting-Wei Li*, Zhining Liu*, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian, Yu Wang, Xiangru Tang, Yin Xiao, Liri Fang, Hui Liu, Xianfeng Tang, Yuji Zhang, Chi Wang, Jiaxuan You, Heng Ji, Hanghang Tong, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>🤗 HuggingFace <a href="https://huggingface.co/papers/date/2026-01-22">[#1 Paper of the Day]</a> </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2601.12538">[arXiv]</a> <a href="https://github.com/weitianxin/Awesome-Agentic-Reasoning">[GitHub]</a> <a href="https://huggingface.co/papers/2601.12538">[HuggingFace]</a> </p>
   </div>
-  
-  <div class="paper-block">
-  <p><b>1. Provably Extending PageRank-based Local Clustering Algorithm to Weighted Directed Graphs with Self-Loops and to Hypergraphs</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hengyu Liu, Jingrui He</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2412.03008">[arXiv]</a> <a href="https://github.com/Violet24K/HyperACL">[GitHub]</a></p>
-  </div>
-  
 
 </details>
 <p></p>
@@ -71,6 +72,27 @@ nav_order: 1
 <details open>
   <summary><b>Published</b> (* denotes Equal Contribution)</summary>
   <p></p>
+
+  <div class="paper-block">
+  <p><b>52. DuetDA: Decomposed and Dynamic Data Attribution with Model-State Gating for Accelerated Scientific Endeavors</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jianpeng Chen, Wangzhi Zhan, Haohui Wang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2026</b> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>51. Local Clustering on Complex Graphs and Complex Hypergraphs</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hengyu Liu, Jingrui He </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2026</b> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>50. KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Mufei Li, Shikun Liu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2026</b> (Memorization on Foundation Models Workshop, 🏆 Oral)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
+  </div>
 
   <div class="paper-block">
   <p><b>49. DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts</b></p>
