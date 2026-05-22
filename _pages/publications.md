@@ -74,23 +74,30 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>52. DuetDA: Decomposed and Dynamic Data Attribution with Model-State Gating for Accelerated Scientific Endeavors</b></p>
+  <p><b>53. DuetDA: Decomposed and Dynamic Data Attribution with Model-State Gating for Accelerated Scientific Endeavors</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jianpeng Chen, Wangzhi Zhan, Haohui Wang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2026</b> </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
   </div>
 
   <div class="paper-block">
-  <p><b>51. Local Clustering on Complex Graphs and Complex Hypergraphs</b></p>
+  <p><b>52. Local Clustering on Complex Graphs and Complex Hypergraphs</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hengyu Liu, Jingrui He </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2026</b> </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
   </div>
 
   <div class="paper-block">
-  <p><b>50. KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing</b></p>
+  <p><b>51. KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Mufei Li, Shikun Liu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2026</b> (Memorization on Foundation Models Workshop, 🏆 Oral)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>50. Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Shikun Liu, Mufei Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2026</b> (Graph Foundation Models Workshop)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
   </div>
 
