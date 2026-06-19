@@ -51,17 +51,23 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>3. Code as Agent Harness</b></p>
+  <p><b>4. Code as Agent Harness</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning, Katherine Tieu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Tianxin Wei, Zihao Li, Yuanchen Bei, Jiaru Zou, Mengting Ai, Zhining Liu, Ting-Wei Li, Lingjie Chen, Yanjun Zhao, Ke Yang, Bingxuan Li, Cheng Qian, Gaotang Li, Xiao Lin, Zhichen Zeng, Ruizhong Qiu, Sirui Chen, Yifan Sun, Xiyuan Yang, Ruida Wang, Rui Pan, Chenyuan Yang, Dylan Zhang, Liri Fang, Zikun Cui, Yang Cao, Pan Chen, Dorothy Sun, Ren Chen, Mahesh Srinivasan, Nipun Mathur, Yinglong Xia, Hong Li, Hong Yan, Pan Lu, Lingming Zhang, Tong Zhang, Hanghang Tong, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>🤗 HuggingFace <a href="https://huggingface.co/papers/date/2026-05-19">[#1 Paper of the Day]</a> </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2605.18747">[arXiv]</a> <a href="https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers">[GitHub]</a> <a href="https://huggingface.co/papers/2605.18747">[HuggingFace]</a> <a href="https://code-as-harness.github.io/code-as-harness-webpage/">[Website]</a> </p>
   </div>
   
   <div class="paper-block">
-  <p><b>2. Agentic Reasoning for Large Language Models</b></p>
+  <p><b>3. Agentic Reasoning for Large Language Models</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Tianxin Wei*, Ting-Wei Li*, Zhining Liu*, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian, Yu Wang, Xiangru Tang, Yin Xiao, Liri Fang, Hui Liu, Xianfeng Tang, Yuji Zhang, Chi Wang, Jiaxuan You, Heng Ji, Hanghang Tong, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>🤗 HuggingFace <a href="https://huggingface.co/papers/date/2026-01-22">[#1 Paper of the Day]</a> </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2601.12538">[arXiv]</a> <a href="https://github.com/weitianxin/Awesome-Agentic-Reasoning">[GitHub]</a> <a href="https://huggingface.co/papers/2601.12538">[HuggingFace]</a> </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>2. Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Ruizhong Qiu, Yinglong Xia, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hanqing Zeng, Ren Chen, Xiangjun Fan, Hong Li, Hong Yan, Hanghang Tong</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2606.20554">[arXiv]</a> </p>
   </div>
 
   <div class="paper-block">
@@ -80,17 +86,25 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>53. DuetDA: Decomposed and Dynamic Data Attribution with Model-State Gating for Accelerated Scientific Endeavors</b></p>
+  <p><b>54. DuetDA: Decomposed and Dynamic Data Attribution with Model-State Gating for Accelerated Scientific Endeavors</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jianpeng Chen, Wangzhi Zhan, Haohui Wang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2026</b> </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
   </div>
 
   <div class="paper-block">
-  <p><b>52. Local Clustering on Complex Graphs and Complex Hypergraphs</b></p>
+  <p><b>53. Local Clustering on Complex Graphs and Complex Hypergraphs</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hengyu Liu, Jingrui He </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2026</b> </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>52. Protein Representation Learning with Secondary-Structure and Energy-Filtered Hydrogen-Bond Graphs</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Mohamed Mouhajir, Limei Wang, El Houcine Bergou, Hajar El Hammouti,
+  Lamiae Azizi, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>BIOKDD 2026</b> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2606.17034">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
