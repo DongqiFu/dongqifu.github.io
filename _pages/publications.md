@@ -104,7 +104,7 @@ nav_order: 1
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Mohamed Mouhajir, Limei Wang, El Houcine Bergou, Hajar El Hammouti,
   Lamiae Azizi, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>BIOKDD 2026</b> </p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2606.17034">[Paper]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2606.19374">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
