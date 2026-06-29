@@ -96,7 +96,7 @@ nav_order: 1
   <div class="paper-block">
   <p><b>53. Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Ruizhong Qiu, Yinglong Xia, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hanqing Zeng, Ren Chen, Xiangjun Fan, Hong Li, Hong Yan, Hanghang Tong</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2026</b> (Comsumer Optimization Workshop) </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2026</b> (Customer Journey Optimization Workshop) </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2606.20554">[Paper]</a> </p>
   </div>
 
@@ -111,7 +111,7 @@ nav_order: 1
   <div class="paper-block">
   <p><b>51. KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Mufei Li, Shikun Liu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2026</b> (Memorization on Foundation Models Workshop, 🏆 Oral)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2026</b> (Memorization on Foundation Models Workshop, 🏆  <b>Oral</b>)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2606.17034">[Paper]</a> </p>
   </div>
 
