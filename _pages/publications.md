@@ -80,28 +80,42 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>55. DuetDA: Decomposed and Dynamic Data Attribution with Model-State Gating for Accelerated Scientific Endeavors</b></p>
+  <p><b>56. MetaSymbO: Multi-Agent Language-Guided Metamaterial Discovery via Symbolic Latent Evolution</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jianpeng Chen, Wangzhi Zhan, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Junkai Zhang, Zian Jia, Ling Li, Wei Wang, Dawei Zhou</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>COLM 2026</b> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>55. Reinforcement Routing for Mixtures of LoRAs in Parameter Efficient LLM Finetuning</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Ruizhong Qiu, Hanqing Zeng, Yinglong Xia, Yiwen Meng, Ren Chen, Jiarui Feng, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Qifan Wang, Jiayi Liu, Jun Xiao, Xiangjun Fan, Benyu Zhang, Hong Li, Zhining Liu, Hyunsik Yoo, Zhichen Zeng, Tianxin Wei, Hanghang Tong</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>COLM 2026</b>, <b>ICLR 2026</b> (Lifelong Agents Workshop)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/attachment?id=KH5ztWgAEp&name=pdf">[Paper]</a> </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>54. DuetDA: Decomposed and Dynamic Data Attribution with Model-State Gating for Accelerated Scientific Endeavors</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jianpeng Chen, Wangzhi Zhan, Haohui Wang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2026</b> </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
   </div>
 
   <div class="paper-block">
-  <p><b>54. Local Clustering on Complex Graphs and Complex Hypergraphs</b></p>
+  <p><b>53. Local Clustering on Complex Graphs and Complex Hypergraphs</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hengyu Liu, Jingrui He </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2026</b> </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
   </div>
 
   <div class="paper-block">
-  <p><b>53. Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation</b></p>
+  <p><b>52. Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Ruizhong Qiu, Yinglong Xia, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hanqing Zeng, Ren Chen, Xiangjun Fan, Hong Li, Hong Yan, Hanghang Tong</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2026</b> (Customer Journey Optimization Workshop) </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2606.20554">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>52. Protein Representation Learning with Secondary-Structure and Energy-Filtered Hydrogen-Bond Graphs</b></p>
+  <p><b>51. Protein Representation Learning with Secondary-Structure and Energy-Filtered Hydrogen-Bond Graphs</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Mohamed Mouhajir, Limei Wang, El Houcine Bergou, Hajar El Hammouti,
   Lamiae Azizi, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>BIOKDD 2026</b> </p>
@@ -109,52 +123,45 @@ nav_order: 1
   </div>
 
   <div class="paper-block">
-  <p><b>51. KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing</b></p>
+  <p><b>50. KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Mufei Li, Shikun Liu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2026</b> (Memorization on Foundation Models Workshop, 🏆  <b>Oral</b>)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2606.17034">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>50. Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows</b></p>
+  <p><b>49. Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Shikun Liu, Mufei Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2026</b> (Graph Foundation Models Workshop)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2606.14672">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>49. DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts</b></p>
+  <p><b>48. DAG-MoE: From Simple Mixture to Structural Aggregation in Mixture-of-Experts</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jiarui Feng, Hanqing Zeng, Karish Grover, Ruizhong Qiu, Yinglong Xia, Qiang Zhang, Qifan Wang, Ren Chen, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jiayi Liu, Zhuokai Zhao, Xiangjun Fan, Benyu Zhang, Yixin Chen</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2026</b> </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2606.01062">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>48. TSAQA: Time Series Analysis Question and Answering Benchmark</b></p>
+  <p><b>47. TSAQA: Time Series Analysis Question and Answering Benchmark</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Baoyu Jing*, Sanhorn Chen*, Lecheng Zheng, Boyu Liu, Zihao Li, Jiaru Zou, Tianxin Wei, Zhining Liu, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, Yuchen Yan, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jingchao Ni, Jingrui He, Hanghang Tong</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2026</b> (Generation, Evaluation & Metrics Workshop)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2601.23204">[Paper]</a> <a href="https://huggingface.co/datasets/TSAQA/TSAQA-Benchmark">[HuggingFace]</a> </p>
   </div>
   
   <div class="paper-block">
-  <p><b>47. PhyVer: Physics-Grounded Material Claim Verification with Multi-Fidelity Physical Evidence</b></p>
+  <p><b>46. PhyVer: Physics-Grounded Material Claim Verification with Multi-Fidelity Physical Evidence</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jianpeng Chen*, Wangzhi Zhan*, Haohui Wang, Brian Mayer,  <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2026</b> (Demo)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>[To appear] </p>
   </div>
   
   <div class="paper-block">
-  <p><b>46. RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking</b></p>
+  <p><b>45. RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jiaru Zou*, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>*, Sirui Chen, Xinrui He, Zihao Li, Yada Zhu, Jiawei Han, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2026</b> (Findings), <b>ICLR 2026</b> (LLM Reasoning Workshop, 🏆 Oral, 8 of 159 Accepted)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2504.01346">[Paper]</a> <a href="https://github.com/jiaruzouu/T-RAG">[GitHub]</a> <a href="https://huggingface.co/collections/jiaruz2/multitableqa">[HuggingFace]</a> </p>
-  </div>
-
-  <div class="paper-block">
-  <p><b>45. ReMix: Reinforcement Routing for Mixtures of LoRAs in LLM Finetuning</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Ruizhong Qiu, Hanqing Zeng, Yinglong Xia, Yiwen Meng, Ren Chen, Jiarui Feng, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Qifan Wang, Jiayi Liu, Jun Xiao, Xiangjun Fan, Benyu Zhang, Hong Li, Zhining Liu, Hyunsik Yoo, Zhichen Zeng, Tianxin Wei, Hanghang Tong</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICLR 2026</b> (Lifelong Agents Workshop)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/attachment?id=KH5ztWgAEp&name=pdf">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
