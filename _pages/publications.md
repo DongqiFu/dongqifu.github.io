@@ -110,7 +110,7 @@ nav_order: 1
   <div class="paper-block">
   <p><b>52. Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Ruizhong Qiu, Yinglong Xia, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hanqing Zeng, Ren Chen, Xiangjun Fan, Hong Li, Hong Yan, Hanghang Tong</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2026</b> (Customer Journey Optimization Workshop) </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>RecSys 2026</b> (Industry), <b>KDD 2026</b> (Customer Journey Optimization Workshop) </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2606.20554">[Paper]</a> </p>
   </div>
 
