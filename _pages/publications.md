@@ -83,14 +83,14 @@ nav_order: 1
   <p><b>56. MetaSymbO: Multi-Agent Language-Guided Metamaterial Discovery via Symbolic Latent Evolution</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jianpeng Chen, Wangzhi Zhan, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Junkai Zhang, Zian Jia, Ling Li, Wei Wang, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>COLM 2026</b> </p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2604.27300">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
   <p><b>55. Reinforcement Routing for Mixtures of LoRAs in Parameter Efficient LLM Finetuning</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Ruizhong Qiu, Hanqing Zeng, Yinglong Xia, Yiwen Meng, Ren Chen, Jiarui Feng, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Qifan Wang, Jiayi Liu, Jun Xiao, Xiangjun Fan, Benyu Zhang, Hong Li, Zhining Liu, Hyunsik Yoo, Zhichen Zeng, Tianxin Wei, Hanghang Tong</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>COLM 2026</b>, <b>ICLR 2026</b> (Lifelong Agents Workshop)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://openreview.net/attachment?id=KH5ztWgAEp&name=pdf">[Paper]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2603.10160">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
@@ -104,7 +104,7 @@ nav_order: 1
   <p><b>53. Local Clustering on Complex Graphs and Complex Hypergraphs</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hengyu Liu, Jingrui He </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2026</b> </p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2412.03008">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
@@ -154,7 +154,7 @@ nav_order: 1
   <p><b>46. PhyVer: Physics-Grounded Material Claim Verification with Multi-Fidelity Physical Evidence</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jianpeng Chen*, Wangzhi Zhan*, Haohui Wang, Brian Mayer,  <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2026</b> (Demo)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>[To appear] </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://aclanthology.org/2026.acl-demo.54.pdf">[Paper]</a> </p>
   </div>
   
   <div class="paper-block">
@@ -203,7 +203,7 @@ nav_order: 1
   <p><b>39. Efficient Retrieval Scaling with Hierarchical Indexing for Large Scale Recommendation</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Kaushik Rangadurai, Haiyu Lu, Yunchen Pu, Siyang Yuan, Minhui Huang, Yiqun Liu, Golnaz Ghasemiesfeh, Xingfeng He, Fangzhou Xu, Andrew Cui, Vidhoon Viswanathan, Lin Yang, Liang Wang, Jiyan Yang, Chonglin Sun</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>EDBT 2026</b> (Industry)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To Appear]</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2604.12965">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
