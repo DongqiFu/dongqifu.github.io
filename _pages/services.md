@@ -11,7 +11,7 @@ nav_order: 4
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [ACM Computing Surveys (CSUR)](https://dl.acm.org/journal/csur/editorial-board)
 
 **Area Chair**\
-<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [NeurIPS 2026](https://neurips.cc/Conferences/2026), [KDD 2027](https://kdd2027.kdd.org/)
+<span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [NeurIPS 2026](https://neurips.cc/Conferences/2026), [KDD 2027](https://kdd2027.kdd.org/), [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/)
 
 **Doctoral Consortium Panelist**\
 <span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [WSDM 2026](https://wsdm-conference.org/2026/)
