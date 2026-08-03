@@ -80,6 +80,20 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
+  <p><b>58. EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Tianxin Wei, Hanqing Zeng, Yuanchen Bei, Bingxuan Li, Zihao Li, Qifan Wang, Xiang Shen, Yifan Wu, Jiayi Liu, Hong Li, Yinglong Xia, Xiangjun Fan, Hanghang Tong, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>COLM 2026</b> (Lifelong Agents Workshop)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="">[To Appear]</a> </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>57. ReActNet: From Learning Communication Graphs to Reasoning-Actuated Dynamic Orchestrations in Multi-Agent Systems</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Katherine Tieu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yinglong Xia, Hong Li, Hong Yan, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>COLM 2026</b> (Lifelong Agents Workshop)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="">[To Appear]</a> </p>
+  </div>
+
+  <div class="paper-block">
   <p><b>56. MetaSymbO: Multi-Agent Language-Guided Metamaterial Discovery via Symbolic Latent Evolution</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jianpeng Chen, Wangzhi Zhan, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Junkai Zhang, Zian Jia, Ling Li, Wei Wang, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>COLM 2026</b> </p>
