@@ -80,6 +80,20 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
+  <p><b>60. Diagnostic Analysis for Large Language Model Reasoning</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xinyu Liu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jun Wu </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>EMNLP 2026</b> (Main)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="">[To Appear]</a> </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>59. Predict, Don't Iterate: Efficient Adaptive-Length Infilling for Diffusion Language Models</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Haobo Xu, Sirui Chen, Yuanchen Bei, Lingjie Chen, Yuchen Yan, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jingrui He, Hanghang Tong</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>EMNLP 2026</b> (Main)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="">[To Appear]</a> </p>
+  </div>
+
+  <div class="paper-block">
   <p><b>58. EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Tianxin Wei, Hanqing Zeng, Yuanchen Bei, Bingxuan Li, Zihao Li, Qifan Wang, Xiang Shen, Yifan Wu, Jiayi Liu, Hong Li, Yinglong Xia, Xiangjun Fan, Hanghang Tong, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>COLM 2026</b> (Lifelong Agents Workshop)</p>
@@ -300,7 +314,7 @@ nav_order: 1
   <div class="paper-block">
   <p><b>27. Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, Lecheng Zheng, Bowen Jin, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Baoyu Jing, Yikun Ban, Jingrui He, Jiawei Han</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2025</b> (<span style="color:red;">Main</span>)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ACL 2025</b> (Main)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2412.08174">[Paper]</a> <a href="https://github.com/Violet24K/Morpher">[Github]</a> </p>
   </div>
 
