@@ -101,7 +101,7 @@ nav_order: 1
   </div>
 
   <div class="paper-block">
-  <p><b>57. ReActNet: From Learning Communication Graphs to Reasoning-Actuated Dynamic Orchestrations in Multi-Agent Systems</b></p>
+  <p><b>57. Inference-Time Graph Engineering for Multi-Agent LLM Workflows</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Katherine Tieu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yinglong Xia, Hong Li, Hong Yan, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>COLM 2026</b> (Lifelong Agents Workshop)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="">[To Appear]</a> </p>
