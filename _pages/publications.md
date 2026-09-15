@@ -90,21 +90,21 @@ nav_order: 1
   <p><b>59. Predict, Don't Iterate: Efficient Adaptive-Length Infilling for Diffusion Language Models</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Haobo Xu, Sirui Chen, Yuanchen Bei, Lingjie Chen, Yuchen Yan, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jingrui He, Hanghang Tong</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>EMNLP 2026</b> (Main)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="">[To Appear]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2609.02108">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
   <p><b>58. EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Tianxin Wei, Hanqing Zeng, Yuanchen Bei, Bingxuan Li, Zihao Li, Qifan Wang, Xiang Shen, Yifan Wu, Jiayi Liu, Hong Li, Yinglong Xia, Xiangjun Fan, Hanghang Tong, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>COLM 2026</b> (Lifelong Agents Workshop)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="">[To Appear]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2608.05446">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
   <p><b>57. Inference-Time Graph Engineering for Multi-Agent LLM Workflows</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Katherine Tieu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yinglong Xia, Hong Li, Hong Yan, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>COLM 2026</b> (Lifelong Agents Workshop)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="">[To Appear]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2609.05774">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
