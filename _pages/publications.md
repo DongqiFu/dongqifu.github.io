@@ -80,70 +80,91 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>60. Diagnostic Analysis for Large Language Model Reasoning</b></p>
+  <p><b>62. Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Shikun Liu, Mufei Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2026</b>, <b>ICML 2026</b> (Graph Foundation Models Workshop)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2606.14672">[Paper]</a> </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>61. ReGDiff: Guided Diffusion in Regulated Latent Space for Exploring Metamaterial Voxel Geometry</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Wangzhi Zhan, Jianpeng Chen, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2026</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="">[To Appear]</a> </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>60. Cold-Start Recommendation: A Knowledge-Centric Perspective</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Yuanchen Bei, Weizhi Zhang, Hyunsik Yoo, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yinglong Xia, Hong Li, Philip S. Yu, and Hanghang Tong</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>IEEE BigData 2026</b> (Tutorial)</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="">[To Appear]</a> </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>59. Diagnostic Analysis for Large Language Model Reasoning</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xinyu Liu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jun Wu </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>EMNLP 2026</b> (Main)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="">[To Appear]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>59. Predict, Don't Iterate: Efficient Adaptive-Length Infilling for Diffusion Language Models</b></p>
+  <p><b>58. Predict, Don't Iterate: Efficient Adaptive-Length Infilling for Diffusion Language Models</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> Haobo Xu, Sirui Chen, Yuanchen Bei, Lingjie Chen, Yuchen Yan, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jingrui He, Hanghang Tong</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>EMNLP 2026</b> (Main)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2609.02108">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>58. EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents</b></p>
+  <p><b>57. EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Tianxin Wei, Hanqing Zeng, Yuanchen Bei, Bingxuan Li, Zihao Li, Qifan Wang, Xiang Shen, Yifan Wu, Jiayi Liu, Hong Li, Yinglong Xia, Xiangjun Fan, Hanghang Tong, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>COLM 2026</b> (Lifelong Agents Workshop)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2608.05446">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>57. Inference-Time Graph Engineering for Multi-Agent LLM Workflows</b></p>
+  <p><b>56. Inference-Time Graph Engineering for Multi-Agent LLM Workflows</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Katherine Tieu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yinglong Xia, Hong Li, Hong Yan, Jingrui He</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>COLM 2026</b> (Lifelong Agents Workshop)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2609.05774">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>56. MetaSymbO: Multi-Agent Language-Guided Metamaterial Discovery via Symbolic Latent Evolution</b></p>
+  <p><b>55. MetaSymbO: Multi-Agent Language-Guided Metamaterial Discovery via Symbolic Latent Evolution</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jianpeng Chen, Wangzhi Zhan, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Junkai Zhang, Zian Jia, Ling Li, Wei Wang, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>COLM 2026</b> </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2604.27300">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>55. Reinforcement Routing for Mixtures of LoRAs in Parameter Efficient LLM Finetuning</b></p>
+  <p><b>54. Reinforcement Routing for Mixtures of LoRAs in Parameter Efficient LLM Finetuning</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Ruizhong Qiu, Hanqing Zeng, Yinglong Xia, Yiwen Meng, Ren Chen, Jiarui Feng, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Qifan Wang, Jiayi Liu, Jun Xiao, Xiangjun Fan, Benyu Zhang, Hong Li, Zhining Liu, Hyunsik Yoo, Zhichen Zeng, Tianxin Wei, Hanghang Tong</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>COLM 2026</b>, <b>ICLR 2026</b> (Lifelong Agents Workshop)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2603.10160">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>54. DuetDA: Decomposed and Dynamic Data Attribution with Model-State Gating for Accelerated Scientific Endeavors</b></p>
+  <p><b>53. DuetDA: Decomposed and Dynamic Data Attribution with Model-State Gating for Accelerated Scientific Endeavors</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Jianpeng Chen, Wangzhi Zhan, Haohui Wang, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2026</b> </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> [To appear] </p>
   </div>
 
   <div class="paper-block">
-  <p><b>53. Local Clustering on Complex Graphs and Complex Hypergraphs</b></p>
+  <p><b>52. Local Clustering on Complex Graphs and Complex Hypergraphs</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Zihao Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hengyu Liu, Jingrui He </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>KDD 2026</b> </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2412.03008">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>52. Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation</b></p>
+  <p><b>51. Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Ruizhong Qiu, Yinglong Xia, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Hanqing Zeng, Ren Chen, Xiangjun Fan, Hong Li, Hong Yan, Hanghang Tong</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>RecSys 2026</b> (Industry), <b>KDD 2026</b> (Customer Journey Optimization Workshop) </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2606.20554">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
-  <p><b>51. Protein Representation Learning with Secondary-Structure and Energy-Filtered Hydrogen-Bond Graphs</b></p>
+  <p><b>50. Protein Representation Learning with Secondary-Structure and Energy-Filtered Hydrogen-Bond Graphs</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Mohamed Mouhajir, Limei Wang, El Houcine Bergou, Hajar El Hammouti,
   Lamiae Azizi, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>BIOKDD 2026</b> </p>
@@ -151,17 +172,10 @@ nav_order: 1
   </div>
 
   <div class="paper-block">
-  <p><b>50. KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing</b></p>
+  <p><b>49. KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Mufei Li, Shikun Liu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2026</b> (Memorization on Foundation Models Workshop, 🏆  <b>Oral</b>)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2606.17034">[Paper]</a> </p>
-  </div>
-
-  <div class="paper-block">
-  <p><b>49. Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Shikun Liu, Mufei Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>ICML 2026</b> (Graph Foundation Models Workshop)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2606.14672">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
