@@ -95,7 +95,7 @@ nav_order: 1
 
   <div class="paper-block">
   <p><b>60. Cold-Start Recommendation: A Knowledge-Centric Perspective</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Yuanchen Bei, Weizhi Zhang, Hyunsik Yoo, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yinglong Xia, Hong Li, Philip S. Yu, and Hanghang Tong</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Yuanchen Bei, Weizhi Zhang, Hyunsik Yoo, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Yinglong Xia, Hong Li, Philip S. Yu, Hanghang Tong</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>IEEE BigData 2026</b> (Tutorial)</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="">[To Appear]</a> </p>
   </div>
