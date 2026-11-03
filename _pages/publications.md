@@ -51,23 +51,10 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
-  <p><b>3. Code as Agent Harness</b></p>
+  <p><b>1. Code as Agent Harness</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xuying Ning, Katherine Tieu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Tianxin Wei, Zihao Li, Yuanchen Bei, Jiaru Zou, Mengting Ai, Zhining Liu, Ting-Wei Li, Lingjie Chen, Yanjun Zhao, Ke Yang, Bingxuan Li, Cheng Qian, Gaotang Li, Xiao Lin, Zhichen Zeng, Ruizhong Qiu, Sirui Chen, Yifan Sun, Xiyuan Yang, Ruida Wang, Rui Pan, Chenyuan Yang, Dylan Zhang, Liri Fang, Zikun Cui, Yang Cao, Pan Chen, Dorothy Sun, Ren Chen, Mahesh Srinivasan, Nipun Mathur, Yinglong Xia, Hong Li, Hong Yan, Pan Lu, Lingming Zhang, Tong Zhang, Hanghang Tong, Jingrui He</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>🤗 HuggingFace <a href="https://huggingface.co/papers/date/2026-05-19">[#1 Paper of the Day]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://huggingface.co/papers/date/2026-05-19">[#1 Paper of the Day, 🤗 HuggingFace]</a> </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2605.18747">[arXiv]</a> <a href="https://github.com/YennNing/Awesome-Code-as-Agent-Harness-Papers">[GitHub]</a> <a href="https://huggingface.co/papers/2605.18747">[HuggingFace]</a> <a href="https://code-as-harness.github.io/code-as-harness-webpage/">[Website]</a> </p>
-  </div>
-  
-  <div class="paper-block">
-  <p><b>2. Agentic Reasoning for Large Language Models</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Tianxin Wei*, Ting-Wei Li*, Zhining Liu*, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian, Yu Wang, Xiangru Tang, Yin Xiao, Liri Fang, Hui Liu, Xianfeng Tang, Yuji Zhang, Chi Wang, Jiaxuan You, Heng Ji, Hanghang Tong, Jingrui He</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>🤗 HuggingFace <a href="https://huggingface.co/papers/date/2026-01-22">[#1 Paper of the Day]</a> </p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2601.12538">[arXiv]</a> <a href="https://github.com/weitianxin/Awesome-Agentic-Reasoning">[GitHub]</a> <a href="https://huggingface.co/papers/2601.12538">[HuggingFace]</a> </p>
-  </div>
-
-  <div class="paper-block">
-  <p><b>1. ChronoID: Infusing Explicit Temporal Signals into Semantic IDs for Generative Recommendation</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Dongdong Nian, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Chenliang Xu, Yinglong Xia, Hong Li, Hong Yan, Jian Kang</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="http://arxiv.org/pdf/2606.14260">[arXiv]</a> </p>
   </div>
 
 </details>
@@ -80,6 +67,20 @@ nav_order: 1
   <p></p>
 
   <div class="paper-block">
+  <p><b>64. Agentic Reasoning for Large Language Models</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Tianxin Wei*, Ting-Wei Li*, Zhining Liu*, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian, Yu Wang, Xiangru Tang, Yin Xiao, Liri Fang, Hui Liu, Xianfeng Tang, Yuji Zhang, Chi Wang, Jiaxuan You, Heng Ji, Hanghang Tong, Jingrui He</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <b>TMLR 2026</b>, <a href="https://huggingface.co/papers/date/2026-01-22">[#1 Paper of the Day, 🤗 HuggingFace]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="https://arxiv.org/pdf/2601.12538">[Paper]</a> <a href="https://github.com/weitianxin/Awesome-Agentic-Reasoning">[GitHub]</a> <a href="https://huggingface.co/papers/2601.12538">[HuggingFace]</a> </p>
+  </div>
+
+  <div class="paper-block">
+  <p><b>63. ChronoID: Infusing Explicit Temporal Signals into Semantic IDs for Generative Recommendation</b></p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Dongdong Nian, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Chenliang Xu, Yinglong Xia, Hong Li, Hong Yan, Jian Kang</p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>WSDM 2027</b> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><a href="http://arxiv.org/pdf/2606.14260">[Paper]</a> </p>
+  </div>
+
+  <div class="paper-block">
   <p><b>62. Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Shikun Liu, Mufei Li, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2026</b>, <b>ICML 2026</b> (Graph Foundation Models Workshop)</p>
@@ -90,7 +91,7 @@ nav_order: 1
   <p><b>61. ReGDiff: Guided Diffusion in Regulated Latent Space for Exploring Metamaterial Voxel Geometry</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Wangzhi Zhan, Jianpeng Chen, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Dawei Zhou</p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>NeurIPS 2026</b></p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="">[To Appear]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2609.34231">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
@@ -104,7 +105,7 @@ nav_order: 1
   <p><b>59. Diagnostic Analysis for Large Language Model Reasoning</b></p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span>Xinyu Liu, <b><span style="text-decoration: underline; text-decoration-thickness: 1.5px;">Dongqi Fu</span></b>, Jun Wu </p>
   <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span><b>EMNLP 2026</b> (Main)</p>
-  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="">[To Appear]</a> </p>
+  <p><span style="font-size: 0.65em; vertical-align: middle;">🔻 </span> <a href="https://arxiv.org/pdf/2610.27245">[Paper]</a> </p>
   </div>
 
   <div class="paper-block">
